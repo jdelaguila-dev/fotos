@@ -1,32 +1,13 @@
-<template>
-  <div>
-  <!-- <input type="file" ref="fileInput" @change="handleFileInput()" />  -->
-    <input type="text" v-model="dni" placeholder="Buscar por DNI" />
-    <button @click="searchByDNI">Buscar</button>
-    <div>
-      <h2>Resultado de la búsqueda:</h2>
-      <div v-if="searchResult">
-        <p>{{ searchResult }}</p>
-        <!-- <table>
-          <tbody>
-            <tr v-for="(value, key) in searchResult" :key="key">
-              <td>{{ key }}</td>
-              <td>{{ value }}</td>
-            </tr>
-          </tbody>
-        </table> -->
-      </div>
-    </div>
-  </div>
-</template>
-
 <script setup>
 import { onMounted, ref } from "vue";
+
 import sourcedata from "../assets/datos.json";
+
+import { CreditCard } from "@element-plus/icons-vue";
+
 const dni = ref("");
 const searchResult = ref(null);
 const jsonData = ref([]);
-
 
 onMounted(() => {
   loadjson();
@@ -34,16 +15,26 @@ onMounted(() => {
 
 const loadjson = () => {
   jsonData.value = sourcedata;
-  
+  console.log(jsonData.value);
 };
 
 const searchByDNI = () => {
   const dniFound = jsonData.value.find((item) => item.dni === dni.value.trim());
   searchResult.value = dniFound ? dniFound : "No se encontraron resultados.";
 };
-
-const removeBrackets = (value) => {
-  return value.replace(/[\[\]{\{\}]/g, "");
-};
-
 </script>
+
+<template>
+  <h1 class="font-semibold text-2xl">Formulario de búsqueda</h1>
+  <div class="flex justify-start items-start w-1/4 space-x-2 my-4">
+    <el-form-item label="DNI" class="w-full">
+      <el-input v-model="dni" placeholder="Ingrese DNI" />
+    </el-form-item>
+    <el-button type="primary" @click="searchByDNI">Buscar</el-button>
+  </div>
+  <div>
+    <ul>
+      <li>{{ searchResult }}</li>
+    </ul>
+  </div>
+</template>
