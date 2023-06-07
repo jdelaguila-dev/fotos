@@ -5,5 +5,4 @@ import TableContent from "../components/TableContent.vue";
 
 <template>
     <SearchForm />
-    <TableContent />
 </template>

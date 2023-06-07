@@ -1,12 +1,18 @@
 <script setup>
-import { onMounted, ref } from "vue";
+import { onMounted, ref, computed } from "vue";
 
 import sourcedata from "../assets/datos.json";
-
-import { CreditCard } from "@element-plus/icons-vue";
+import TableContent from "./TableContent.vue";
 
 const dni = ref("");
-const searchResult = ref(null);
+const searchResult = computed(() => {
+  return dni.value
+    ? jsonData.value.filter((item) => {
+        const _dni = item.dni.toString();
+        return _dni.includes(dni.value);
+      })
+    : [];
+});
 const jsonData = ref([]);
 
 onMounted(() => {
@@ -17,11 +23,6 @@ const loadjson = () => {
   jsonData.value = sourcedata;
   console.log(jsonData.value);
 };
-
-const searchByDNI = () => {
-  const dniFound = jsonData.value.find((item) => item.dni === dni.value.trim());
-  searchResult.value = dniFound ? dniFound : "No se encontraron resultados.";
-};
 </script>
 
 <template>
@@ -30,11 +31,8 @@ const searchByDNI = () => {
     <el-form-item label="DNI" class="w-full">
       <el-input v-model="dni" placeholder="Ingrese DNI" />
     </el-form-item>
-    <el-button type="primary" @click="searchByDNI">Buscar</el-button>
   </div>
   <div>
-    <ul>
-      <li>{{ searchResult }}</li>
-    </ul>
+    <TableContent :users="searchResult" />
   </div>
 </template>

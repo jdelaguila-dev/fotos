@@ -1,6 +1,6 @@
 [
  {
-  "N° expediente": 2409,
+  "expediente": 2409,
   "dni": "05710735",
   "nombres": "MELINA",
   "apaterno": "NAVARRO",
@@ -9,7 +9,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2439,
+  "expediente": 2439,
   "dni": "05353582",
   "nombres": "AURORA",
   "apaterno": "LOPEZ",
@@ -18,7 +18,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2442,
+  "expediente": 2442,
   "dni": "05379012",
   "nombres": "ASUNCION",
   "apaterno": "RUIZ",
@@ -27,7 +27,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2448,
+  "expediente": 2448,
   "dni": "05391985",
   "nombres": "TERESA ISABEL",
   "apaterno": "OROCHE",
@@ -36,7 +36,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2555,
+  "expediente": 2555,
   "dni": "08122648",
   "nombres": "NADINE YVONNE",
   "apaterno": "QUISPE",
@@ -45,7 +45,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2572,
+  "expediente": 2572,
   "dni": "42641297",
   "nombres": "CAROL GISSELA",
   "apaterno": "ACOSTA",
@@ -54,7 +54,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2582,
+  "expediente": 2582,
   "dni": "44538205",
   "nombres": "JORGE SEVERINO",
   "apaterno": "D AZEVEDO",
@@ -63,7 +63,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2583,
+  "expediente": 2583,
   "dni": "41347258",
   "nombres": "ACKER ALDAO",
   "apaterno": "SIMA",
@@ -72,7 +72,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2584,
+  "expediente": 2584,
   "dni": "42565131",
   "nombres": "CHRISTIAN ANTHONY",
   "apaterno": "NIZAMA",
@@ -81,7 +81,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2585,
+  "expediente": 2585,
   "dni": "09644871",
   "nombres": "FRANCISCO JAVIER",
   "apaterno": "ANDIA",
@@ -90,7 +90,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1686,
+  "expediente": 1686,
   "dni": "48432726",
   "nombres": "FERNANDO DANIEL",
   "apaterno": "RIOS",
@@ -99,7 +99,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1775,
+  "expediente": 1775,
   "dni": "77661063",
   "nombres": "FATIMA GIANELLA",
   "apaterno": "SARA",
@@ -108,7 +108,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1833,
+  "expediente": 1833,
   "dni": "05396227",
   "nombres": "JACK",
   "apaterno": "VELA",
@@ -117,7 +117,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1836,
+  "expediente": 1836,
   "dni": "40417832",
   "nombres": "ESTEFITA",
   "apaterno": "CAPUENA",
@@ -126,7 +126,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1837,
+  "expediente": 1837,
   "dni": "05365516",
   "nombres": "PATRICIA",
   "apaterno": "VASQUEZ",
@@ -135,7 +135,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1848,
+  "expediente": 1848,
   "dni": "43504005",
   "nombres": "JHEAM CARLOS",
   "apaterno": "LOPEZ",
@@ -144,7 +144,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1852,
+  "expediente": 1852,
   "dni": "05401893",
   "nombres": "JUAN ORLANDO",
   "apaterno": "OLIVEIRA",
@@ -153,7 +153,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1894,
+  "expediente": 1894,
   "dni": "41076641",
   "nombres": "MARIA ISABEL",
   "apaterno": "CHUQUIPIONDO",
@@ -162,7 +162,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1945,
+  "expediente": 1945,
   "dni": "43508096",
   "nombres": "MARCIO",
   "apaterno": "GONCALVEZ",
@@ -171,7 +171,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1988,
+  "expediente": 1988,
   "dni": "42955486",
   "nombres": "GALY",
   "apaterno": "CORAL",
@@ -180,7 +180,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2005,
+  "expediente": 2005,
   "dni": "41659797",
   "nombres": "KAREM JOSEFINA",
   "apaterno": "URBINA",
@@ -189,7 +189,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2018,
+  "expediente": 2018,
   "dni": "05416978",
   "nombres": "ANGEL MOISES",
   "apaterno": "DONAYRE",
@@ -198,7 +198,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2045,
+  "expediente": 2045,
   "dni": "05363433",
   "nombres": "EULAGIA",
   "apaterno": "TELLO",
@@ -207,7 +207,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2099,
+  "expediente": 2099,
   "dni": "40018895",
   "nombres": "RUBY AZUCENA",
   "apaterno": "ARCE",
@@ -216,7 +216,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2104,
+  "expediente": 2104,
   "dni": "05401154",
   "nombres": "LILIANA",
   "apaterno": "TELLO",
@@ -225,7 +225,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2112,
+  "expediente": 2112,
   "dni": "42878072",
   "nombres": "CESAR MARIO",
   "apaterno": "ROJAS",
@@ -234,7 +234,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2115,
+  "expediente": 2115,
   "dni": "05404146",
   "nombres": "ANA MARIA",
   "apaterno": "VASQUEZ",
@@ -243,7 +243,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2124,
+  "expediente": 2124,
   "dni": "76274743",
   "nombres": "MORELIA",
   "apaterno": "PADILLA",
@@ -252,7 +252,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2126,
+  "expediente": 2126,
   "dni": "72800826",
   "nombres": "DAMARIS",
   "apaterno": "NORIEGA",
@@ -261,7 +261,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2331,
+  "expediente": 2331,
   "dni": "05338097",
   "nombres": "PATRICIA",
   "apaterno": "GASTELLO",
@@ -270,7 +270,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2336,
+  "expediente": 2336,
   "dni": "05368243",
   "nombres": "MARGARITA",
   "apaterno": "DONAYRE",
@@ -279,7 +279,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1755,
+  "expediente": 1755,
   "dni": "40045500",
   "nombres": "LILIANA GABRIELA",
   "apaterno": "PEREA",
@@ -288,7 +288,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1815,
+  "expediente": 1815,
   "dni": "46637130",
   "nombres": "FRANSISS ANDRE",
   "apaterno": "DEL AGUILA",
@@ -297,7 +297,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1824,
+  "expediente": 1824,
   "dni": "05364055",
   "nombres": "VICTOR ANNERY",
   "apaterno": "CHUNG",
@@ -306,7 +306,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1847,
+  "expediente": 1847,
   "dni": "05710975",
   "nombres": "MARCOS",
   "apaterno": "ARIRAMA",
@@ -315,7 +315,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1880,
+  "expediente": 1880,
   "dni": "42827971",
   "nombres": "RICARDO GAMANIEL",
   "apaterno": "MORIS",
@@ -324,7 +324,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1887,
+  "expediente": 1887,
   "dni": "76583275",
   "nombres": "CLAUDIA ROMINA",
   "apaterno": "ROMAYNA",
@@ -333,7 +333,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1917,
+  "expediente": 1917,
   "dni": "05405884",
   "nombres": "BRIAN",
   "apaterno": "BARDALES",
@@ -342,7 +342,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1920,
+  "expediente": 1920,
   "dni": "72288211",
   "nombres": "NIXON",
   "apaterno": "MANANITA",
@@ -351,7 +351,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1933,
+  "expediente": 1933,
   "dni": "41358978",
   "nombres": "MARTIN CHRISTIAN",
   "apaterno": "MARTINEZ",
@@ -360,7 +360,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1944,
+  "expediente": 1944,
   "dni": "40819059",
   "nombres": "JERRY ALBERT",
   "apaterno": "ALTAMIRANO",
@@ -369,7 +369,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1950,
+  "expediente": 1950,
   "dni": "05393719",
   "nombres": "GIOVANNI",
   "apaterno": "HIDALGO",
@@ -378,7 +378,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2006,
+  "expediente": 2006,
   "dni": "05380332",
   "nombres": "JUAN JOSE",
   "apaterno": "GOMEZ",
@@ -387,7 +387,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2010,
+  "expediente": 2010,
   "dni": "40541843",
   "nombres": "FERNANDO",
   "apaterno": "TORRES",
@@ -396,7 +396,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2035,
+  "expediente": 2035,
   "dni": "05322373",
   "nombres": "TEDDY ALBERTO",
   "apaterno": "ZUMBA",
@@ -405,7 +405,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2058,
+  "expediente": 2058,
   "dni": "41216891",
   "nombres": "PEDRO",
   "apaterno": "RIOS",
@@ -414,7 +414,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2128,
+  "expediente": 2128,
   "dni": "43527762",
   "nombres": "AUGUSTO",
   "apaterno": "FLORES",
@@ -423,7 +423,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2173,
+  "expediente": 2173,
   "dni": "05353368",
   "nombres": "HAROLDO",
   "apaterno": "LINARES",
@@ -432,7 +432,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2178,
+  "expediente": 2178,
   "dni": "05417672",
   "nombres": "WILLY FREYTIN",
   "apaterno": "AMARINGO",
@@ -441,7 +441,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2187,
+  "expediente": 2187,
   "dni": "18179104",
   "nombres": "JULIO JOSE",
   "apaterno": "TOBIES",
@@ -450,7 +450,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2251,
+  "expediente": 2251,
   "dni": "41850960",
   "nombres": "VICTOR ROBERTO",
   "apaterno": "ALEGRIA",
@@ -459,7 +459,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2312,
+  "expediente": 2312,
   "dni": "42315746",
   "nombres": "CARLOS ALBERTO",
   "apaterno": "MORI",
@@ -468,7 +468,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2328,
+  "expediente": 2328,
   "dni": "42289727",
   "nombres": "LISSET ELVIRA",
   "apaterno": "HIDALGO",
@@ -477,7 +477,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2334,
+  "expediente": 2334,
   "dni": "05381698",
   "nombres": "ROBERTO ",
   "apaterno": "DEL AGUILA",
@@ -486,7 +486,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2339,
+  "expediente": 2339,
   "dni": "40428259",
   "nombres": "TERESA DE JESUS",
   "apaterno": "MONTES",
@@ -495,7 +495,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2342,
+  "expediente": 2342,
   "dni": "05417818",
   "nombres": "ZITO ENRIQUE",
   "apaterno": "RENGIFO",
@@ -504,7 +504,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2344,
+  "expediente": 2344,
   "dni": "05382741",
   "nombres": "JULIO CESAR",
   "apaterno": "GARCIA",
@@ -513,7 +513,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2388,
+  "expediente": 2388,
   "dni": "41704358",
   "nombres": "CESAR ANTONIO",
   "apaterno": "RUBIO",
@@ -522,7 +522,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2393,
+  "expediente": 2393,
   "dni": "41673007",
   "nombres": "HAMILTON WINCLER",
   "apaterno": "PACAYA",
@@ -531,7 +531,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2399,
+  "expediente": 2399,
   "dni": "71275066",
   "nombres": "EDWARD ALBERTO",
   "apaterno": "FLORES",
@@ -540,7 +540,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2403,
+  "expediente": 2403,
   "dni": "00110162",
   "nombres": "ROLANDO",
   "apaterno": "CARBAJAL",
@@ -549,7 +549,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2404,
+  "expediente": 2404,
   "dni": "71113321",
   "nombres": "RAFAEL",
   "apaterno": "PAIVA",
@@ -558,7 +558,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2496,
+  "expediente": 2496,
   "dni": "45886069",
   "nombres": "CARLOS NEIL",
   "apaterno": "GRANDEZ",
@@ -567,7 +567,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2515,
+  "expediente": 2515,
   "dni": "46633565",
   "nombres": "TERESITA IBONE",
   "apaterno": "RUIZ",
@@ -576,7 +576,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2537,
+  "expediente": 2537,
   "dni": "05357016",
   "nombres": "RUY ROBERTO",
   "apaterno": "RAMIREZ",
@@ -585,7 +585,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2543,
+  "expediente": 2543,
   "dni": "05379138",
   "nombres": "RIQUE",
   "apaterno": "BABILONIA",
@@ -594,7 +594,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2458,
+  "expediente": 2458,
   "dni": "47508753",
   "nombres": "KEYNEY DARVIN",
   "apaterno": "IHUARAQUI",
@@ -603,7 +603,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2529,
+  "expediente": 2529,
   "dni": "72546431",
   "nombres": "LUIS DANIEL",
   "apaterno": "PLAZA",
@@ -612,7 +612,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2532,
+  "expediente": 2532,
   "dni": "45700282",
   "nombres": "GINO BERNARD",
   "apaterno": "CORAL",
@@ -621,7 +621,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2547,
+  "expediente": 2547,
   "dni": "70417580",
   "nombres": "JUAN LUIS",
   "apaterno": "ORBE",
@@ -630,7 +630,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2556,
+  "expediente": 2556,
   "dni": "41934554",
   "nombres": "ISABEL",
   "apaterno": "REATEGUI",
@@ -639,7 +639,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2565,
+  "expediente": 2565,
   "dni": "72646659",
   "nombres": "KIARA LUCERO",
   "apaterno": "MOZOMBITE",
@@ -648,7 +648,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2567,
+  "expediente": 2567,
   "dni": "45283129",
   "nombres": "JONATHAN MARTIN",
   "apaterno": "FLORES",
@@ -657,7 +657,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2593,
+  "expediente": 2593,
   "dni": "05248252",
   "nombres": "JORGE",
   "apaterno": "MESIA",
@@ -666,7 +666,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1672,
+  "expediente": 1672,
   "dni": "75976945",
   "nombres": "MATRICX BRAYEEN",
   "apaterno": "RICOPA",
@@ -675,7 +675,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1789,
+  "expediente": 1789,
   "dni": "48472120",
   "nombres": "CHANNY MARGGRETT",
   "apaterno": "FLORES",
@@ -684,7 +684,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1796,
+  "expediente": 1796,
   "dni": "46947847",
   "nombres": "DANIELA MARGARITA",
   "apaterno": "ISUIZA",
@@ -693,7 +693,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1800,
+  "expediente": 1800,
   "dni": "45407508",
   "nombres": "HECTOR ALBERTO",
   "apaterno": "SILVA",
@@ -702,7 +702,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1835,
+  "expediente": 1835,
   "dni": "43596053",
   "nombres": "RYAN GIANCARLO",
   "apaterno": "DIAZ",
@@ -711,7 +711,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1913,
+  "expediente": 1913,
   "dni": "70427494",
   "nombres": "JEAN CARLOS",
   "apaterno": "ZAMBRANO",
@@ -720,7 +720,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1946,
+  "expediente": 1946,
   "dni": "71136578",
   "nombres": "LINA CAROLINA",
   "apaterno": "DIAZ",
@@ -729,7 +729,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2021,
+  "expediente": 2021,
   "dni": "70060035",
   "nombres": "CAROL SMITH",
   "apaterno": "MANIHUARI",
@@ -738,7 +738,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2162,
+  "expediente": 2162,
   "dni": "71016187",
   "nombres": "TATIANA",
   "apaterno": "PEREZ",
@@ -747,7 +747,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2168,
+  "expediente": 2168,
   "dni": "72712337",
   "nombres": "CRISTIAN ALEJANDRO",
   "apaterno": "SANCHEZ",
@@ -756,7 +756,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2176,
+  "expediente": 2176,
   "dni": "70309527",
   "nombres": "CARLOS ALEXANDER",
   "apaterno": "MORI",
@@ -765,7 +765,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2190,
+  "expediente": 2190,
   "dni": "70427424",
   "nombres": "DANIELA ",
   "apaterno": "PAREDES",
@@ -774,7 +774,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2210,
+  "expediente": 2210,
   "dni": "05316499",
   "nombres": "ELDIN",
   "apaterno": "PEZO",
@@ -783,7 +783,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2250,
+  "expediente": 2250,
   "dni": "74806200",
   "nombres": "CARLOS PATRICK",
   "apaterno": "SEVILLANO",
@@ -792,7 +792,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2254,
+  "expediente": 2254,
   "dni": "71782649",
   "nombres": "ROXANA JULISSA",
   "apaterno": "FLORES",
@@ -801,7 +801,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2268,
+  "expediente": 2268,
   "dni": "43960339",
   "nombres": "NILSA",
   "apaterno": "MOZOMBITE",
@@ -810,7 +810,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2316,
+  "expediente": 2316,
   "dni": "46273440",
   "nombres": "EDUARDO",
   "apaterno": "RAMOS",
@@ -819,7 +819,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2318,
+  "expediente": 2318,
   "dni": "47941970",
   "nombres": "ROBERTO ALONZO",
   "apaterno": "BENDEZU",
@@ -828,7 +828,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1702,
+  "expediente": 1702,
   "dni": "40257112",
   "nombres": "EDWIN ROBERTO",
   "apaterno": "TECCO",
@@ -837,7 +837,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1757,
+  "expediente": 1757,
   "dni": "42519627",
   "nombres": "JUAN ANSELMO",
   "apaterno": "GONZALES",
@@ -846,7 +846,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1802,
+  "expediente": 1802,
   "dni": "45252614",
   "nombres": "SERGIO JAVIER",
   "apaterno": "GONZALO",
@@ -855,7 +855,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1871,
+  "expediente": 1871,
   "dni": "71140329",
   "nombres": "DENNIS ORLANDO",
   "apaterno": "PACAYA",
@@ -864,7 +864,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1956,
+  "expediente": 1956,
   "dni": "72858224",
   "nombres": "KATHIA LIZBETH",
   "apaterno": "TELLO",
@@ -873,7 +873,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1959,
+  "expediente": 1959,
   "dni": "71836060",
   "nombres": "WENDY LESSY",
   "apaterno": "GARCIA",
@@ -882,7 +882,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2009,
+  "expediente": 2009,
   "dni": "74035489",
   "nombres": "NELMA HORTENCIA",
   "apaterno": "GARCIA",
@@ -891,7 +891,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2067,
+  "expediente": 2067,
   "dni": "70369333",
   "nombres": "DIANA CAROLINA",
   "apaterno": "BICERRA",
@@ -900,7 +900,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2073,
+  "expediente": 2073,
   "dni": "41574708",
   "nombres": "KATTY",
   "apaterno": "ALVA",
@@ -909,7 +909,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2082,
+  "expediente": 2082,
   "dni": "72194844",
   "nombres": "JACK ROBINSON",
   "apaterno": "LOPEZ",
@@ -918,7 +918,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2127,
+  "expediente": 2127,
   "dni": "71029217",
   "nombres": "GABRIELA DEL ROSARIO",
   "apaterno": "PEÑA",
@@ -927,7 +927,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2134,
+  "expediente": 2134,
   "dni": "46034747",
   "nombres": "CHRISTIAN FERNANDO",
   "apaterno": "CUMPA",
@@ -936,7 +936,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2174,
+  "expediente": 2174,
   "dni": "70081375",
   "nombres": "CICELHY",
   "apaterno": "OCMIN",
@@ -945,7 +945,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2239,
+  "expediente": 2239,
   "dni": "71314432",
   "nombres": "DANIEL ELISEO",
   "apaterno": "CORDOVA",
@@ -954,7 +954,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2243,
+  "expediente": 2243,
   "dni": "71431322",
   "nombres": "HADRYAN CORAINNE",
   "apaterno": "GOMEZ",
@@ -963,7 +963,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2257,
+  "expediente": 2257,
   "dni": "44743062",
   "nombres": "RINA LUZ",
   "apaterno": "ITURRARAN",
@@ -972,7 +972,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2323,
+  "expediente": 2323,
   "dni": "45366708",
   "nombres": "JUNIOR BENITO",
   "apaterno": "RUIZ",
@@ -981,7 +981,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2333,
+  "expediente": 2333,
   "dni": "42551313",
   "nombres": "ANDY",
   "apaterno": "VASQUEZ",
@@ -990,7 +990,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2341,
+  "expediente": 2341,
   "dni": "44920439",
   "nombres": "ANGELICA VIVIANA",
   "apaterno": "RIOS",
@@ -999,7 +999,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2385,
+  "expediente": 2385,
   "dni": "73758518",
   "nombres": "FRANCO DAVID",
   "apaterno": "ELALUFF",
@@ -1008,7 +1008,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2391,
+  "expediente": 2391,
   "dni": "72197603",
   "nombres": "JOSEMARIA",
   "apaterno": "ROMAYNA",
@@ -1017,7 +1017,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2489,
+  "expediente": 2489,
   "dni": "70117466",
   "nombres": "CHRISTIAN MANUEL",
   "apaterno": "SANGAMA",
@@ -1026,7 +1026,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2499,
+  "expediente": 2499,
   "dni": "44494598",
   "nombres": "CARLOS AUGUSTO",
   "apaterno": "VELA",
@@ -1035,7 +1035,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2500,
+  "expediente": 2500,
   "dni": "76827151",
   "nombres": "KEVIN ANTHONY",
   "apaterno": "TANG",
@@ -1044,7 +1044,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2506,
+  "expediente": 2506,
   "dni": "43893561",
   "nombres": "JOHN RILEY",
   "apaterno": "GUARDIA",
@@ -1053,7 +1053,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2511,
+  "expediente": 2511,
   "dni": "70387243",
   "nombres": "SHIRLEY KRISSTELL",
   "apaterno": "OLIVEIRA",
@@ -1062,7 +1062,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2530,
+  "expediente": 2530,
   "dni": "71135560",
   "nombres": "BRENDA XIMENA",
   "apaterno": "OBENHAUSEN",
@@ -1071,7 +1071,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2560,
+  "expediente": 2560,
   "dni": "41105710",
   "nombres": "JUAN CARLOS",
   "apaterno": "CACERES",
@@ -1080,7 +1080,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2562,
+  "expediente": 2562,
   "dni": "73128852",
   "nombres": "DAVID",
   "apaterno": "SORIA",
@@ -1089,7 +1089,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2564,
+  "expediente": 2564,
   "dni": "72546441",
   "nombres": "ROBIN GABRIEL",
   "apaterno": "PANDURO",
@@ -1098,7 +1098,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2570,
+  "expediente": 2570,
   "dni": "71002112",
   "nombres": "WILY",
   "apaterno": "MOZOMBITE",
@@ -1107,7 +1107,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2574,
+  "expediente": 2574,
   "dni": "76332111",
   "nombres": "LUISA ERIKA JESSIEL",
   "apaterno": "FONSECA",
@@ -1116,7 +1116,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2587,
+  "expediente": 2587,
   "dni": "76909171",
   "nombres": "SHAREN CRISTINA",
   "apaterno": "SAAVEDRA",
@@ -1125,7 +1125,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2590,
+  "expediente": 2590,
   "dni": "74942516",
   "nombres": "MARCELO",
   "apaterno": "PEZO",
@@ -1134,7 +1134,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2591,
+  "expediente": 2591,
   "dni": "70079643",
   "nombres": "FRANK ALFONZO THOMAS",
   "apaterno": "ZUNINI",
@@ -1143,7 +1143,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2422,
+  "expediente": 2422,
   "dni": "46807721",
   "nombres": "PAOLA DEL CARMEN",
   "apaterno": "RIOS",
@@ -1152,7 +1152,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2424,
+  "expediente": 2424,
   "dni": "43130399",
   "nombres": "JIMMY AMPELIO",
   "apaterno": "CORNEJO",
@@ -1161,7 +1161,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2441,
+  "expediente": 2441,
   "dni": "45957424",
   "nombres": "LISSETH ESTEFANY",
   "apaterno": "LAVAJOS",
@@ -1170,7 +1170,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2484,
+  "expediente": 2484,
   "dni": "70148025",
   "nombres": "DIEGO BENJAMIN",
   "apaterno": "TELLO",
@@ -1179,7 +1179,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2486,
+  "expediente": 2486,
   "dni": "44728934",
   "nombres": "NORA",
   "apaterno": "SABOYA",
@@ -1188,7 +1188,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2491,
+  "expediente": 2491,
   "dni": "43703163",
   "nombres": "ESTEBAN EDUARDO",
   "apaterno": "FONG",
@@ -1197,7 +1197,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2497,
+  "expediente": 2497,
   "dni": "43010137",
   "nombres": "LUIS ALBERTO",
   "apaterno": "RUIZ",
@@ -1206,7 +1206,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2501,
+  "expediente": 2501,
   "dni": "05356803",
   "nombres": "JOSE",
   "apaterno": "YALTA",
@@ -1215,7 +1215,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2507,
+  "expediente": 2507,
   "dni": "47561614",
   "nombres": "MAX KLAUSS",
   "apaterno": "TORREJON",
@@ -1224,7 +1224,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2550,
+  "expediente": 2550,
   "dni": "46888310",
   "nombres": "LUIS ALBERTO",
   "apaterno": "GONZALES",
@@ -1233,7 +1233,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2561,
+  "expediente": 2561,
   "dni": "73091403",
   "nombres": "PAULITA BEATRIZ",
   "apaterno": "CASTRO",
@@ -1242,7 +1242,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2566,
+  "expediente": 2566,
   "dni": "44832704",
   "nombres": "CESAR ALBERTO",
   "apaterno": "ALVA",
@@ -1251,7 +1251,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1709,
+  "expediente": 1709,
   "dni": "47257146",
   "nombres": "ARACELY",
   "apaterno": "PINCHI",
@@ -1260,7 +1260,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1792,
+  "expediente": 1792,
   "dni": "77057339",
   "nombres": "PETRONILA ISABEL",
   "apaterno": "GOMEZ",
@@ -1269,7 +1269,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1807,
+  "expediente": 1807,
   "dni": "70750999",
   "nombres": "ARNOLD OMAR",
   "apaterno": "NORIEGA",
@@ -1278,7 +1278,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1809,
+  "expediente": 1809,
   "dni": "70563539",
   "nombres": "JHONNY",
   "apaterno": "VELA",
@@ -1287,7 +1287,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1846,
+  "expediente": 1846,
   "dni": "76724364",
   "nombres": "LUIS HERNAN",
   "apaterno": "SANCHEZ",
@@ -1296,7 +1296,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1861,
+  "expediente": 1861,
   "dni": "70192222",
   "nombres": "TATIANA MILUSCA",
   "apaterno": "ROMAN",
@@ -1305,7 +1305,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1868,
+  "expediente": 1868,
   "dni": "74771263",
   "nombres": "JHON EVER",
   "apaterno": "RENGIFO",
@@ -1314,7 +1314,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1905,
+  "expediente": 1905,
   "dni": "70665271",
   "nombres": "PATRICK MARCELO",
   "apaterno": "ABREU",
@@ -1323,7 +1323,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1961,
+  "expediente": 1961,
   "dni": "46857423",
   "nombres": "JARED",
   "apaterno": "VELASCO",
@@ -1332,7 +1332,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1975,
+  "expediente": 1975,
   "dni": "73815220",
   "nombres": "ROCIO DEL PILAR",
   "apaterno": "RODRIGUEZ",
@@ -1341,7 +1341,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2076,
+  "expediente": 2076,
   "dni": "70117444",
   "nombres": "BLANCA SOFIA ",
   "apaterno": "DEL AGUILA",
@@ -1350,7 +1350,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2159,
+  "expediente": 2159,
   "dni": "72689765",
   "nombres": "LUIS FERNANDO",
   "apaterno": "AREVALO",
@@ -1359,7 +1359,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2212,
+  "expediente": 2212,
   "dni": "05320959",
   "nombres": "ALEJANDRO",
   "apaterno": "SANTILLAN",
@@ -1368,7 +1368,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2215,
+  "expediente": 2215,
   "dni": "71426869",
   "nombres": "JORGE LUIS",
   "apaterno": "VASQUEZ",
@@ -1377,7 +1377,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2247,
+  "expediente": 2247,
   "dni": "73011648",
   "nombres": "GEYSON XAMIR",
   "apaterno": "WONG",
@@ -1386,7 +1386,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2274,
+  "expediente": 2274,
   "dni": "72420608",
   "nombres": "MARIA ISABEL",
   "apaterno": "VASQUEZ",
@@ -1395,7 +1395,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2322,
+  "expediente": 2322,
   "dni": "74909693",
   "nombres": "DIANA ISABEL",
   "apaterno": "HERNANDEZ",
@@ -1404,7 +1404,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2364,
+  "expediente": 2364,
   "dni": "71496820",
   "nombres": "JENNY VICTORIA",
   "apaterno": "CONTRERAS",
@@ -1413,7 +1413,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2368,
+  "expediente": 2368,
   "dni": "72871763",
   "nombres": "JESUS BRIHAM",
   "apaterno": "TORRES",
@@ -1422,7 +1422,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2369,
+  "expediente": 2369,
   "dni": "46857406",
   "nombres": "LUIS ENRIQUE ",
   "apaterno": "CACERES",
@@ -1431,7 +1431,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2372,
+  "expediente": 2372,
   "dni": "45387340",
   "nombres": "MESIAS GABRIEL",
   "apaterno": "JARA",
@@ -1440,7 +1440,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2381,
+  "expediente": 2381,
   "dni": "75822028",
   "nombres": "JHON ANTONY",
   "apaterno": "CORAL",
@@ -1449,7 +1449,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1696,
+  "expediente": 1696,
   "dni": "73578541",
   "nombres": "AMBAR MANUELA",
   "apaterno": "MONTES",
@@ -1458,7 +1458,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1716,
+  "expediente": 1716,
   "dni": "72816207",
   "nombres": "FRESIA ARACELLY",
   "apaterno": "GARCIA",
@@ -1467,7 +1467,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1732,
+  "expediente": 1732,
   "dni": "74131409",
   "nombres": "CIELO",
   "apaterno": "LOZANO",
@@ -1476,7 +1476,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1986,
+  "expediente": 1986,
   "dni": "77353986",
   "nombres": "JORGE ALBERTO",
   "apaterno": "MUJICA",
@@ -1485,7 +1485,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1991,
+  "expediente": 1991,
   "dni": "76373899",
   "nombres": "ANDREA RUBI",
   "apaterno": "DEL ROSARIO",
@@ -1494,7 +1494,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2000,
+  "expediente": 2000,
   "dni": "72546498",
   "nombres": "KAREN JESSY",
   "apaterno": "PEZO",
@@ -1503,7 +1503,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2002,
+  "expediente": 2002,
   "dni": "43283888",
   "nombres": "YANET ROCIO",
   "apaterno": "DAZA",
@@ -1512,7 +1512,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2023,
+  "expediente": 2023,
   "dni": "21524196",
   "nombres": "MILTON",
   "apaterno": "CONTRERAS",
@@ -1521,7 +1521,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2047,
+  "expediente": 2047,
   "dni": "47277108",
   "nombres": "RICHARD MARTIN",
   "apaterno": "SAAVEDRA",
@@ -1530,7 +1530,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2056,
+  "expediente": 2056,
   "dni": "05222050",
   "nombres": "JORGE",
   "apaterno": "RENGIFO",
@@ -1539,7 +1539,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2133,
+  "expediente": 2133,
   "dni": "70656510",
   "nombres": "OLGA RAQUEL",
   "apaterno": "RAMIREZ",
@@ -1548,7 +1548,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2151,
+  "expediente": 2151,
   "dni": "70517000",
   "nombres": "ANDREA ISABEL",
   "apaterno": "NAJAR",
@@ -1557,7 +1557,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2167,
+  "expediente": 2167,
   "dni": "73107506",
   "nombres": "ANGELA ELAINE",
   "apaterno": "PROKOPIUK",
@@ -1566,7 +1566,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2195,
+  "expediente": 2195,
   "dni": "76864223",
   "nombres": "ADRIANA LUCIA",
   "apaterno": "YRENE",
@@ -1575,7 +1575,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2201,
+  "expediente": 2201,
   "dni": "70024880",
   "nombres": "ALYSSA JHULIER",
   "apaterno": "ZUMAETA",
@@ -1584,7 +1584,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2275,
+  "expediente": 2275,
   "dni": "72455879",
   "nombres": "CAROLINA CELMITH",
   "apaterno": "QUINTANILLA",
@@ -1593,7 +1593,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2374,
+  "expediente": 2374,
   "dni": "47064415",
   "nombres": "MARIA AMPARO BEATRIZ",
   "apaterno": "ZUMAETA",
@@ -1602,7 +1602,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2408,
+  "expediente": 2408,
   "dni": "75088186",
   "nombres": "JOYCE TAHIS",
   "apaterno": "CORNEJO",
@@ -1611,7 +1611,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2436,
+  "expediente": 2436,
   "dni": "45396438",
   "nombres": "ROLLY SLY",
   "apaterno": "ASIPALI",
@@ -1620,7 +1620,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2483,
+  "expediente": 2483,
   "dni": "07932998",
   "nombres": "ROXANA CHABELA",
   "apaterno": "CARRION",
@@ -1629,7 +1629,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2485,
+  "expediente": 2485,
   "dni": "73126562",
   "nombres": "MARGARET KATHRYN NADINE",
   "apaterno": "RODRIGUEZ",
@@ -1638,7 +1638,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2523,
+  "expediente": 2523,
   "dni": "70426517",
   "nombres": "MARLON MARTIN",
   "apaterno": "TORRES",
@@ -1647,7 +1647,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2559,
+  "expediente": 2559,
   "dni": "74552528",
   "nombres": "SAMANTHA GERALDINE",
   "apaterno": "VALLES",
@@ -1656,7 +1656,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2563,
+  "expediente": 2563,
   "dni": "40289373",
   "nombres": "MARCELO",
   "apaterno": "RUIZ",
@@ -1665,7 +1665,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2417,
+  "expediente": 2417,
   "dni": "70683083",
   "nombres": "BRIAN KAROL",
   "apaterno": "SAMAME",
@@ -1674,7 +1674,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2450,
+  "expediente": 2450,
   "dni": "42720755",
   "nombres": "JHOVANY",
   "apaterno": "VASQUEZ",
@@ -1683,7 +1683,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2476,
+  "expediente": 2476,
   "dni": "70370787",
   "nombres": "STEPHANY MISHELL",
   "apaterno": "DEGLANE",
@@ -1692,7 +1692,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2505,
+  "expediente": 2505,
   "dni": "40668043",
   "nombres": "YULY",
   "apaterno": "MOENA",
@@ -1701,7 +1701,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2527,
+  "expediente": 2527,
   "dni": "72546541",
   "nombres": "SARA MILUSKA",
   "apaterno": "OLORTEGUI",
@@ -1710,7 +1710,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2548,
+  "expediente": 2548,
   "dni": "41302594",
   "nombres": "LOURDES",
   "apaterno": "CORREA",
@@ -1719,7 +1719,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1756,
+  "expediente": 1756,
   "dni": "75327476",
   "nombres": "MELISSA ANDREA",
   "apaterno": "JARA",
@@ -1728,7 +1728,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1918,
+  "expediente": 1918,
   "dni": "48183465",
   "nombres": "ROXANA",
   "apaterno": "MAYTAHUARI",
@@ -1737,7 +1737,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1987,
+  "expediente": 1987,
   "dni": "40939517",
   "nombres": "NATHALY ORNELLA",
   "apaterno": "SANGAMA",
@@ -1746,7 +1746,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2030,
+  "expediente": 2030,
   "dni": "46274371",
   "nombres": "PAOLO CESAR",
   "apaterno": "PIÑA",
@@ -1755,7 +1755,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2053,
+  "expediente": 2053,
   "dni": "000573968",
   "nombres": "ERICK VALENTIN",
   "apaterno": "MEDRANO",
@@ -1764,7 +1764,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2109,
+  "expediente": 2109,
   "dni": "76922109",
   "nombres": "VALERIA XIMENA",
   "apaterno": "DERTEANO",
@@ -1773,7 +1773,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2136,
+  "expediente": 2136,
   "dni": "71698401",
   "nombres": "CHRISTOPHER BILLY",
   "apaterno": "LEON",
@@ -1782,7 +1782,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2144,
+  "expediente": 2144,
   "dni": "41636348",
   "nombres": "CARLOS ALBERTO",
   "apaterno": "SANTILLAN",
@@ -1791,7 +1791,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2154,
+  "expediente": 2154,
   "dni": "70542689",
   "nombres": "ANITA VALERIA",
   "apaterno": "ACHO",
@@ -1800,7 +1800,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2188,
+  "expediente": 2188,
   "dni": "05345834",
   "nombres": "TONY",
   "apaterno": "ROJAS",
@@ -1809,7 +1809,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2205,
+  "expediente": 2205,
   "dni": "70136834",
   "nombres": "CARLOS JAVIER",
   "apaterno": "MENDOZA",
@@ -1818,7 +1818,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2229,
+  "expediente": 2229,
   "dni": "72740116",
   "nombres": "GIANFRANCO",
   "apaterno": "RENGIFO",
@@ -1827,7 +1827,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2238,
+  "expediente": 2238,
   "dni": "10466270",
   "nombres": "DAMIAN COSME",
   "apaterno": "AGUILAR",
@@ -1836,7 +1836,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2287,
+  "expediente": 2287,
   "dni": "43281054",
   "nombres": "WALTER DEMETRIO",
   "apaterno": "REYES",
@@ -1845,7 +1845,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2338,
+  "expediente": 2338,
   "dni": "41426748",
   "nombres": "PATRICIA MAGALY",
   "apaterno": "GARCIA",
@@ -1854,7 +1854,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2365,
+  "expediente": 2365,
   "dni": "71229448",
   "nombres": "LARRY SANTIAGO",
   "apaterno": "LOPEZ",
@@ -1863,7 +1863,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1740,
+  "expediente": 1740,
   "dni": "005843098",
   "nombres": "JULIAN OSWALDO",
   "apaterno": "HORTA",
@@ -1872,7 +1872,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1754,
+  "expediente": 1754,
   "dni": "72513334",
   "nombres": "JESUS ANTONIO",
   "apaterno": "PEZO",
@@ -1881,7 +1881,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1774,
+  "expediente": 1774,
   "dni": "71114543",
   "nombres": "FELICITA TERESA",
   "apaterno": "RAMOS",
@@ -1890,7 +1890,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1784,
+  "expediente": 1784,
   "dni": "40490940",
   "nombres": "ROSSINA ISABEL",
   "apaterno": "SAAVEDRA",
@@ -1899,7 +1899,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1817,
+  "expediente": 1817,
   "dni": "05242486",
   "nombres": "PARACELSO",
   "apaterno": "CORDOVA",
@@ -1908,7 +1908,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1832,
+  "expediente": 1832,
   "dni": "71006662",
   "nombres": "ALEXANDER STALIN",
   "apaterno": "DAVILA",
@@ -1917,7 +1917,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1867,
+  "expediente": 1867,
   "dni": "72709447",
   "nombres": "ISRAEL VIETNAM",
   "apaterno": "MERA",
@@ -1926,7 +1926,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1892,
+  "expediente": 1892,
   "dni": "44478298",
   "nombres": "SILVIO HERNAN",
   "apaterno": "MARINI",
@@ -1935,7 +1935,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1902,
+  "expediente": 1902,
   "dni": "47815025",
   "nombres": "JHON RODY",
   "apaterno": "GARCIA",
@@ -1944,7 +1944,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1919,
+  "expediente": 1919,
   "dni": "72357780",
   "nombres": "JEMIMA",
   "apaterno": "MOZOMBITE",
@@ -1953,7 +1953,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1970,
+  "expediente": 1970,
   "dni": "72842900",
   "nombres": "KATIA CRISTINA",
   "apaterno": "MANIHUARI",
@@ -1962,7 +1962,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2064,
+  "expediente": 2064,
   "dni": "41767911",
   "nombres": "ZULLY KAREN",
   "apaterno": "RENGIFO",
@@ -1971,7 +1971,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2121,
+  "expediente": 2121,
   "dni": "48021169",
   "nombres": "YESSICA YESENIA",
   "apaterno": "MUÑOZ",
@@ -1980,7 +1980,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2141,
+  "expediente": 2141,
   "dni": "44763729",
   "nombres": "JULIO ABEL",
   "apaterno": "RAMIREZ",
@@ -1989,7 +1989,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2227,
+  "expediente": 2227,
   "dni": "41124863",
   "nombres": "PAOLA EMIRA",
   "apaterno": "TRIGOSO",
@@ -1998,7 +1998,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2298,
+  "expediente": 2298,
   "dni": "43353557",
   "nombres": "MARCELA MAYRA",
   "apaterno": "VELA",
@@ -2007,7 +2007,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2302,
+  "expediente": 2302,
   "dni": "05417314",
   "nombres": "MAGNOLIA LUZ",
   "apaterno": "VILLACORTA",
@@ -2016,7 +2016,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2324,
+  "expediente": 2324,
   "dni": "41634827",
   "nombres": "SHEYLA",
   "apaterno": "MEZA",
@@ -2025,7 +2025,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2349,
+  "expediente": 2349,
   "dni": "71029715",
   "nombres": "HECTOR LUIS",
   "apaterno": "JANAMPA",
@@ -2034,7 +2034,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2355,
+  "expediente": 2355,
   "dni": "46426451",
   "nombres": "PAUL JOSEP",
   "apaterno": "SAAVEDRA",
@@ -2043,7 +2043,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2357,
+  "expediente": 2357,
   "dni": "09418912",
   "nombres": "ROGER EDGARD",
   "apaterno": "GOMEZ",
@@ -2052,7 +2052,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2362,
+  "expediente": 2362,
   "dni": "72910839",
   "nombres": "JUAN PEDRO GERMAN",
   "apaterno": "PINEDO",
@@ -2061,7 +2061,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2468,
+  "expediente": 2468,
   "dni": "45029077",
   "nombres": "MARCO ANTONIO",
   "apaterno": "RODRIGUEZ",
@@ -2070,7 +2070,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2473,
+  "expediente": 2473,
   "dni": "44148424",
   "nombres": "ROSA ISABEL",
   "apaterno": "GALDOS",
@@ -2079,7 +2079,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2482,
+  "expediente": 2482,
   "dni": "45425415",
   "nombres": "CRISTHIAM SALVADOR",
   "apaterno": "ARANDA",
@@ -2088,7 +2088,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2509,
+  "expediente": 2509,
   "dni": "46848994",
   "nombres": "ERICK",
   "apaterno": "ROMERO",
@@ -2097,7 +2097,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2510,
+  "expediente": 2510,
   "dni": "41224658",
   "nombres": "SIMITH CRISTINA",
   "apaterno": "RIMACHI",
@@ -2106,7 +2106,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2522,
+  "expediente": 2522,
   "dni": "05410654",
   "nombres": "MARIA ELENA",
   "apaterno": "RODRIGUEZ",
@@ -2115,7 +2115,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2538,
+  "expediente": 2538,
   "dni": "70352360",
   "nombres": "DIANA JOSEFINA",
   "apaterno": "SANCHEZ",
@@ -2124,7 +2124,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2571,
+  "expediente": 2571,
   "dni": "46721359",
   "nombres": "AYRTON JEFFREY",
   "apaterno": "HIDALGO",
@@ -2133,7 +2133,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2573,
+  "expediente": 2573,
   "dni": "70654712",
   "nombres": "LETICIA",
   "apaterno": "AMASIFUEN",
@@ -2142,7 +2142,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2576,
+  "expediente": 2576,
   "dni": "07686451",
   "nombres": "ENRIQUE EPIFANIO",
   "apaterno": "SANTOS",
@@ -2151,7 +2151,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2577,
+  "expediente": 2577,
   "dni": "08404300",
   "nombres": "JORGE HUGO",
   "apaterno": "SANTILLAN",
@@ -2160,7 +2160,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2578,
+  "expediente": 2578,
   "dni": "21462636",
   "nombres": "GRACIELA NOELIA",
   "apaterno": "RAFFO",
@@ -2169,7 +2169,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2479,
+  "expediente": 2479,
   "dni": "41889762",
   "nombres": "JANELLY JANETT",
   "apaterno": "SINACAY",
@@ -2178,7 +2178,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2512,
+  "expediente": 2512,
   "dni": "42731628",
   "nombres": "KELLY MARGOTH",
   "apaterno": "PANDURO",
@@ -2187,7 +2187,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2514,
+  "expediente": 2514,
   "dni": "40490017",
   "nombres": "DAYLE ELENA",
   "apaterno": "RENGIFO",
@@ -2196,7 +2196,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2517,
+  "expediente": 2517,
   "dni": "05380076",
   "nombres": "PATRICIA",
   "apaterno": "SOLIS",
@@ -2205,7 +2205,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2518,
+  "expediente": 2518,
   "dni": "42268658",
   "nombres": "CLAVEL ROSALIA",
   "apaterno": "PEREZ",
@@ -2214,7 +2214,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2531,
+  "expediente": 2531,
   "dni": "05384280",
   "nombres": "JENNY ANN ",
   "apaterno": "MEDINA",
@@ -2223,7 +2223,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2557,
+  "expediente": 2557,
   "dni": "47384225",
   "nombres": "PATRICIA",
   "apaterno": "GUTIERREZ",
@@ -2232,7 +2232,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2558,
+  "expediente": 2558,
   "dni": "45647160",
   "nombres": "DAISI ONEIDA",
   "apaterno": "ZEGARRA",
@@ -2241,7 +2241,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2588,
+  "expediente": 2588,
   "dni": "70481538",
   "nombres": "KATHERIN MARGARITA",
   "apaterno": "MEDER",
@@ -2250,7 +2250,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2589,
+  "expediente": 2589,
   "dni": "41348663",
   "nombres": "NISLEY ESLIT",
   "apaterno": "RENGIFO",
@@ -2259,7 +2259,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2592,
+  "expediente": 2592,
   "dni": "41398663",
   "nombres": "EFRAIN MOISES",
   "apaterno": "MANCHA",
@@ -2268,7 +2268,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1685,
+  "expediente": 1685,
   "dni": "42744287",
   "nombres": "JULIO CESAR",
   "apaterno": "TELLO",
@@ -2277,7 +2277,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1689,
+  "expediente": 1689,
   "dni": "40233470",
   "nombres": "TANIA MARISOL",
   "apaterno": "VALLES",
@@ -2286,7 +2286,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1690,
+  "expediente": 1690,
   "dni": "41784887",
   "nombres": "ROBERTO",
   "apaterno": "DEL AGUILA",
@@ -2295,7 +2295,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1710,
+  "expediente": 1710,
   "dni": "80552684",
   "nombres": "JACKSON EDDY",
   "apaterno": "LOPEZ",
@@ -2304,7 +2304,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1719,
+  "expediente": 1719,
   "dni": "73578538",
   "nombres": "JESSICA GUIANINNA",
   "apaterno": "LOPEZ",
@@ -2313,7 +2313,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1721,
+  "expediente": 1721,
   "dni": "42274863",
   "nombres": "MARIBEL",
   "apaterno": "REATEGUI",
@@ -2322,7 +2322,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1727,
+  "expediente": 1727,
   "dni": "40184323",
   "nombres": "EVA",
   "apaterno": "RIOS",
@@ -2331,7 +2331,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1739,
+  "expediente": 1739,
   "dni": "70861632",
   "nombres": "DONARDO",
   "apaterno": "RUIZ",
@@ -2340,7 +2340,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1743,
+  "expediente": 1743,
   "dni": "41637104",
   "nombres": "LESLY PETRONILA",
   "apaterno": "VILLAVERDE",
@@ -2349,7 +2349,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1749,
+  "expediente": 1749,
   "dni": "42161476",
   "nombres": "JHOLY VIVIAN",
   "apaterno": "CEVILLANO",
@@ -2358,7 +2358,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1770,
+  "expediente": 1770,
   "dni": "48042212",
   "nombres": "PERCO ANDRY",
   "apaterno": "OLIVA",
@@ -2367,7 +2367,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1780,
+  "expediente": 1780,
   "dni": "05382357",
   "nombres": "MARLON",
   "apaterno": "AHUITE",
@@ -2376,7 +2376,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1823,
+  "expediente": 1823,
   "dni": "05405428",
   "nombres": "KARLA ",
   "apaterno": "NUBE ",
@@ -2385,7 +2385,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1829,
+  "expediente": 1829,
   "dni": "43565705",
   "nombres": "KARLA MIREYA",
   "apaterno": "PEZO",
@@ -2394,7 +2394,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1830,
+  "expediente": 1830,
   "dni": "43393001",
   "nombres": "JAMILETH",
   "apaterno": "PINEDO",
@@ -2403,7 +2403,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1845,
+  "expediente": 1845,
   "dni": "73193331",
   "nombres": "HILARY",
   "apaterno": "TORRES",
@@ -2412,7 +2412,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1857,
+  "expediente": 1857,
   "dni": "41239617",
   "nombres": "JORGE LUIS",
   "apaterno": "TALLEDO",
@@ -2421,7 +2421,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1862,
+  "expediente": 1862,
   "dni": "41463194",
   "nombres": "LUZ MAGALY",
   "apaterno": "SILVANO",
@@ -2430,7 +2430,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1866,
+  "expediente": 1866,
   "dni": "46159193",
   "nombres": "JOYSI",
   "apaterno": "PEZO",
@@ -2439,7 +2439,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1884,
+  "expediente": 1884,
   "dni": "15431080",
   "nombres": "MIGUEL ANGEL",
   "apaterno": "LUYO",
@@ -2448,7 +2448,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1886,
+  "expediente": 1886,
   "dni": "40254806",
   "nombres": "CLEMENCIA SOFIA",
   "apaterno": "FLORES",
@@ -2457,7 +2457,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1891,
+  "expediente": 1891,
   "dni": "76831486",
   "nombres": "ESDRAS",
   "apaterno": "RENGIFO",
@@ -2466,7 +2466,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1893,
+  "expediente": 1893,
   "dni": "47699034",
   "nombres": "XIOMARA RUBI",
   "apaterno": "IZQUIERDO",
@@ -2475,7 +2475,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1909,
+  "expediente": 1909,
   "dni": "41845987",
   "nombres": "ENITH",
   "apaterno": "CORDOVA",
@@ -2484,7 +2484,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1911,
+  "expediente": 1911,
   "dni": "70898267",
   "nombres": "MAGDA",
   "apaterno": "RUIZ",
@@ -2493,7 +2493,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1912,
+  "expediente": 1912,
   "dni": "43512971",
   "nombres": "DAISY MERCEDES",
   "apaterno": "DORADO",
@@ -2502,7 +2502,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1914,
+  "expediente": 1914,
   "dni": "76084783",
   "nombres": "MARIELA ALEXANDRA",
   "apaterno": "SHAPIAMA",
@@ -2511,7 +2511,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1916,
+  "expediente": 1916,
   "dni": "73342730",
   "nombres": "CLAUDIA ESTEFANY",
   "apaterno": "FERREYRA",
@@ -2520,7 +2520,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1927,
+  "expediente": 1927,
   "dni": "41452486",
   "nombres": "SONIA",
   "apaterno": "RAMIREZ",
@@ -2529,7 +2529,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1929,
+  "expediente": 1929,
   "dni": "47311853",
   "nombres": "CARMEN",
   "apaterno": "CACHIQUE",
@@ -2538,7 +2538,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1932,
+  "expediente": 1932,
   "dni": "05392177",
   "nombres": "GIOVANNA",
   "apaterno": "CACHIQUE",
@@ -2547,7 +2547,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1934,
+  "expediente": 1934,
   "dni": "72536628",
   "nombres": "MONIQUE ALESSANDRA",
   "apaterno": "PLASENCIA",
@@ -2556,7 +2556,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1937,
+  "expediente": 1937,
   "dni": "46189117",
   "nombres": "GLORIA AMPARO",
   "apaterno": "PEREZ",
@@ -2565,7 +2565,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1938,
+  "expediente": 1938,
   "dni": "75550041",
   "nombres": "MARIOLITA DEL CARMEN",
   "apaterno": "ISLA",
@@ -2574,7 +2574,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1940,
+  "expediente": 1940,
   "dni": "40396345",
   "nombres": "TANIA",
   "apaterno": "ZUMAETA",
@@ -2583,7 +2583,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1947,
+  "expediente": 1947,
   "dni": "80325180",
   "nombres": "EDUARDO ALBERTO",
   "apaterno": "VALERA",
@@ -2592,7 +2592,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1954,
+  "expediente": 1954,
   "dni": "47478414",
   "nombres": "JULIANA",
   "apaterno": "RUIZ",
@@ -2601,7 +2601,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1966,
+  "expediente": 1966,
   "dni": "71338625",
   "nombres": "INDRA LETICIA",
   "apaterno": "DIAZ",
@@ -2610,7 +2610,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1978,
+  "expediente": 1978,
   "dni": "40866561",
   "nombres": "NARDA LUZ",
   "apaterno": "SILVA",
@@ -2619,7 +2619,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1981,
+  "expediente": 1981,
   "dni": "43589758",
   "nombres": "LOIDA",
   "apaterno": "GUERRA",
@@ -2628,7 +2628,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1983,
+  "expediente": 1983,
   "dni": "72608519",
   "nombres": "SARA ALEGRIA",
   "apaterno": "PEREZ",
@@ -2637,7 +2637,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1990,
+  "expediente": 1990,
   "dni": "46110539",
   "nombres": "WALQUER WEYDER",
   "apaterno": "CARRANZA",
@@ -2646,7 +2646,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1992,
+  "expediente": 1992,
   "dni": "74211999",
   "nombres": "ALEXIS IVAN",
   "apaterno": "CHOTA",
@@ -2655,7 +2655,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1997,
+  "expediente": 1997,
   "dni": "46963387",
   "nombres": "JOSE",
   "apaterno": "AREVALO",
@@ -2664,7 +2664,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2001,
+  "expediente": 2001,
   "dni": "05382539",
   "nombres": "KELLY LIZBETH",
   "apaterno": "MORI",
@@ -2673,7 +2673,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2008,
+  "expediente": 2008,
   "dni": "43092516",
   "nombres": "LIBIA RAQUEL",
   "apaterno": "HUARATAPAIRO",
@@ -2682,7 +2682,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2016,
+  "expediente": 2016,
   "dni": "42108333",
   "nombres": "MAGALY MIREILLE ",
   "apaterno": "SALDAÑA",
@@ -2691,7 +2691,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2017,
+  "expediente": 2017,
   "dni": "41448839",
   "nombres": "LUIS",
   "apaterno": "GATICA",
@@ -2700,7 +2700,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2049,
+  "expediente": 2049,
   "dni": "05845205",
   "nombres": "ALEX",
   "apaterno": "LOMAS",
@@ -2709,7 +2709,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2065,
+  "expediente": 2065,
   "dni": "05859990",
   "nombres": "LLENY DEL PILAR",
   "apaterno": "TAMANI",
@@ -2718,7 +2718,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2075,
+  "expediente": 2075,
   "dni": "61470157",
   "nombres": "CLAUDIA ASTRID",
   "apaterno": "GALAN",
@@ -2727,7 +2727,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2089,
+  "expediente": 2089,
   "dni": "42519655",
   "nombres": "ARCADIO ALFREDO",
   "apaterno": "DOÑE",
@@ -2736,7 +2736,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2093,
+  "expediente": 2093,
   "dni": "42552369",
   "nombres": "GRACE YETTY",
   "apaterno": "SAJAMI",
@@ -2745,7 +2745,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2095,
+  "expediente": 2095,
   "dni": "72735086",
   "nombres": "XIOMY ALMENDRA",
   "apaterno": "GUEVARA",
@@ -2754,7 +2754,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2096,
+  "expediente": 2096,
   "dni": "21541148",
   "nombres": "WALTER ALFREDO",
   "apaterno": "DAVILA",
@@ -2763,7 +2763,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2098,
+  "expediente": 2098,
   "dni": "41237271",
   "nombres": "LIZ GLENDY",
   "apaterno": "BARDALES",
@@ -2772,7 +2772,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2102,
+  "expediente": 2102,
   "dni": "05407001",
   "nombres": "ROCIO DEL PILAR",
   "apaterno": "SOLSOL",
@@ -2781,7 +2781,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2105,
+  "expediente": 2105,
   "dni": "48482463",
   "nombres": "JENNIFER CRISANA",
   "apaterno": "FLORES",
@@ -2790,7 +2790,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2106,
+  "expediente": 2106,
   "dni": "71574625",
   "nombres": "CLARA MARIA",
   "apaterno": "PEREZ",
@@ -2799,7 +2799,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2108,
+  "expediente": 2108,
   "dni": "76358728",
   "nombres": "JERILYN MABEL",
   "apaterno": "FLORES",
@@ -2808,7 +2808,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2113,
+  "expediente": 2113,
   "dni": "05404196",
   "nombres": "GRETEL",
   "apaterno": "GUERRA",
@@ -2817,7 +2817,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2118,
+  "expediente": 2118,
   "dni": "05339822",
   "nombres": "SARA ISIDORA",
   "apaterno": "IGLESIAS",
@@ -2826,7 +2826,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2125,
+  "expediente": 2125,
   "dni": "46166697",
   "nombres": "LUIS STALIN",
   "apaterno": "ABECASIS",
@@ -2835,7 +2835,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2129,
+  "expediente": 2129,
   "dni": "41463186",
   "nombres": "ISAAC RICARDO",
   "apaterno": "LOPEZ",
@@ -2844,7 +2844,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2130,
+  "expediente": 2130,
   "dni": "05711112",
   "nombres": "LERITA",
   "apaterno": "RUIZ",
@@ -2853,7 +2853,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2138,
+  "expediente": 2138,
   "dni": "05361441",
   "nombres": "JACKELINE",
   "apaterno": "TORREJON",
@@ -2862,7 +2862,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2140,
+  "expediente": 2140,
   "dni": "73150368",
   "nombres": "ILMER ISABEL",
   "apaterno": "GARCIA",
@@ -2871,7 +2871,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2143,
+  "expediente": 2143,
   "dni": "05227441",
   "nombres": "ILMER",
   "apaterno": "CHAVEZ",
@@ -2880,7 +2880,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2194,
+  "expediente": 2194,
   "dni": "43233853",
   "nombres": "JUAN GENARO",
   "apaterno": "VASQUEZ",
@@ -2889,7 +2889,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2203,
+  "expediente": 2203,
   "dni": "40521326",
   "nombres": "PRIDE VIVIANA",
   "apaterno": "FERNANDEZ",
@@ -2898,7 +2898,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2206,
+  "expediente": 2206,
   "dni": "41319189",
   "nombres": "ALAN JOHN",
   "apaterno": "TUESTA",
@@ -2907,7 +2907,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2226,
+  "expediente": 2226,
   "dni": "45060590",
   "nombres": "SUSAN KAREN",
   "apaterno": "VASQUEZ",
@@ -2916,7 +2916,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2234,
+  "expediente": 2234,
   "dni": "71025890",
   "nombres": "JENIFFER XIMENA",
   "apaterno": "GUERRERO",
@@ -2925,7 +2925,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2256,
+  "expediente": 2256,
   "dni": "46622179",
   "nombres": "BARBARA MELISSA",
   "apaterno": "MOZOMBITE",
@@ -2934,7 +2934,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2263,
+  "expediente": 2263,
   "dni": "73750155",
   "nombres": "STEPHANY KARINA",
   "apaterno": "SILVANO",
@@ -2943,7 +2943,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2266,
+  "expediente": 2266,
   "dni": "05861834",
   "nombres": "PAULL EDWARD",
   "apaterno": "BRICEÑO",
@@ -2952,7 +2952,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2269,
+  "expediente": 2269,
   "dni": "44052633",
   "nombres": "MARIA ELIA",
   "apaterno": "ASPAJO",
@@ -2961,7 +2961,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2279,
+  "expediente": 2279,
   "dni": "48427812",
   "nombres": "CARLA MALY",
   "apaterno": "ARIMAGA",
@@ -2970,7 +2970,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2280,
+  "expediente": 2280,
   "dni": "05365083",
   "nombres": "RUSVEL",
   "apaterno": "MOZOMBITE",
@@ -2979,7 +2979,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2283,
+  "expediente": 2283,
   "dni": "47277445",
   "nombres": "ELFREN NEVER",
   "apaterno": "RISCO",
@@ -2988,7 +2988,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2285,
+  "expediente": 2285,
   "dni": "42333280",
   "nombres": "ESPERANZA",
   "apaterno": "PINEDO",
@@ -2997,7 +2997,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2290,
+  "expediente": 2290,
   "dni": "72784679",
   "nombres": "SHIRLEY NAIR",
   "apaterno": "VARGAS",
@@ -3006,7 +3006,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2297,
+  "expediente": 2297,
   "dni": "44467475",
   "nombres": "WENDY CAROLINA",
   "apaterno": "VALERA",
@@ -3015,7 +3015,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2306,
+  "expediente": 2306,
   "dni": "46968504",
   "nombres": "CILLENE",
   "apaterno": "ACHANG",
@@ -3024,7 +3024,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2307,
+  "expediente": 2307,
   "dni": "71554672",
   "nombres": "REYLER JEHINS",
   "apaterno": "MARICHIN",
@@ -3033,7 +3033,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2337,
+  "expediente": 2337,
   "dni": "42707462",
   "nombres": "BRENDA MADELEINE",
   "apaterno": "MIRANDA",
@@ -3042,7 +3042,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2343,
+  "expediente": 2343,
   "dni": "45552430",
   "nombres": "CYNTHIA EVELYN",
   "apaterno": "TELLO",
@@ -3051,7 +3051,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2346,
+  "expediente": 2346,
   "dni": "70347277",
   "nombres": "TYANA MINELLY",
   "apaterno": "GUEVARA",
@@ -3060,7 +3060,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2351,
+  "expediente": 2351,
   "dni": "40367898",
   "nombres": "DIONICIA",
   "apaterno": "LOPEZ",
@@ -3069,7 +3069,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2358,
+  "expediente": 2358,
   "dni": "71115932",
   "nombres": "ESPERANZA",
   "apaterno": "MELENDEZ",
@@ -3078,7 +3078,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2373,
+  "expediente": 2373,
   "dni": "41068907",
   "nombres": "JUAN CARLOS",
   "apaterno": "SORIA",
@@ -3087,7 +3087,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2382,
+  "expediente": 2382,
   "dni": "42674389",
   "nombres": "SILVIA KATTYANA",
   "apaterno": "RIOS",
@@ -3096,7 +3096,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2397,
+  "expediente": 2397,
   "dni": "40942484",
   "nombres": "DIANA ESTHER",
   "apaterno": "GARCIA",
@@ -3105,7 +3105,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1687,
+  "expediente": 1687,
   "dni": "41659815",
   "nombres": "JAIME FERNANDO",
   "apaterno": "GARCIA",
@@ -3114,7 +3114,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1699,
+  "expediente": 1699,
   "dni": "70067996",
   "nombres": "MARLLORI KRISTEL",
   "apaterno": "ZAMBRANO",
@@ -3123,7 +3123,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1713,
+  "expediente": 1713,
   "dni": "47603832",
   "nombres": "MIRKO SANTIAGO",
   "apaterno": "PINEDO",
@@ -3132,7 +3132,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1717,
+  "expediente": 1717,
   "dni": "71232688",
   "nombres": "ANGEL RICARDO",
   "apaterno": "CHAVARRI",
@@ -3141,7 +3141,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1720,
+  "expediente": 1720,
   "dni": "70776105",
   "nombres": "CINTHIA MELISSA",
   "apaterno": "DEL AGUILA",
@@ -3150,7 +3150,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1736,
+  "expediente": 1736,
   "dni": "05402608",
   "nombres": "LUISA MARITZA",
   "apaterno": "MONCADA",
@@ -3159,7 +3159,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1766,
+  "expediente": 1766,
   "dni": "76574546",
   "nombres": "DAVID JOSUE",
   "apaterno": "CASADO",
@@ -3168,7 +3168,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1771,
+  "expediente": 1771,
   "dni": "46336507",
   "nombres": "ERICK JOE",
   "apaterno": "DOSSANTOS",
@@ -3177,7 +3177,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1798,
+  "expediente": 1798,
   "dni": "73068835",
   "nombres": "ASHLY SCARLETT",
   "apaterno": "OLIVEIRA",
@@ -3186,7 +3186,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1865,
+  "expediente": 1865,
   "dni": "47591279",
   "nombres": "WILSON URIAS",
   "apaterno": "COTRINA",
@@ -3195,7 +3195,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1921,
+  "expediente": 1921,
   "dni": "40052693",
   "nombres": "ROCIO DEL CARMEN",
   "apaterno": "SHUÑA",
@@ -3204,7 +3204,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1941,
+  "expediente": 1941,
   "dni": "72618567",
   "nombres": "SARA CAROLINA",
   "apaterno": "VASQUEZ",
@@ -3213,7 +3213,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1960,
+  "expediente": 1960,
   "dni": "72774537",
   "nombres": "ALPHA MORELIE",
   "apaterno": "TELLO",
@@ -3222,7 +3222,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1971,
+  "expediente": 1971,
   "dni": "09799163",
   "nombres": "FERNANDO",
   "apaterno": "RAMOS",
@@ -3231,7 +3231,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1974,
+  "expediente": 1974,
   "dni": "46918175",
   "nombres": "LINDA ANGELICA",
   "apaterno": "DIAZ",
@@ -3240,7 +3240,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1995,
+  "expediente": 1995,
   "dni": "73232755",
   "nombres": "GRACE JAMILETH",
   "apaterno": "GOMEZ",
@@ -3249,7 +3249,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2024,
+  "expediente": 2024,
   "dni": "05380519",
   "nombres": "ROXANA ELIZABETH",
   "apaterno": "ROCHA",
@@ -3258,7 +3258,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2103,
+  "expediente": 2103,
   "dni": "71225771",
   "nombres": "CLAUDIA SARITA",
   "apaterno": "FLORES",
@@ -3267,7 +3267,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2139,
+  "expediente": 2139,
   "dni": "72198881",
   "nombres": "VANESSA ISABEL",
   "apaterno": "RAMIREZ",
@@ -3276,7 +3276,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2158,
+  "expediente": 2158,
   "dni": "71131166",
   "nombres": "EDUARDO",
   "apaterno": "MONTERO",
@@ -3285,7 +3285,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2189,
+  "expediente": 2189,
   "dni": "003732564",
   "nombres": "ANTONIO RAFAEL",
   "apaterno": "MOSQUEDA",
@@ -3294,7 +3294,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2196,
+  "expediente": 2196,
   "dni": "40584639",
   "nombres": "ANA DEL PILAR",
   "apaterno": "LAVADO",
@@ -3303,7 +3303,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2217,
+  "expediente": 2217,
   "dni": "71276327",
   "nombres": "ASHLEY MARILYN",
   "apaterno": "ORBE",
@@ -3312,7 +3312,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2286,
+  "expediente": 2286,
   "dni": "05201556",
   "nombres": "JUAN ANTONIO",
   "apaterno": "RUIZ",
@@ -3321,7 +3321,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2300,
+  "expediente": 2300,
   "dni": "73232609",
   "nombres": "HUGO JEFFER",
   "apaterno": "SERNAQUE",
@@ -3330,7 +3330,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2305,
+  "expediente": 2305,
   "dni": "44374644",
   "nombres": "FRANCIS STEFHANY",
   "apaterno": "VINCES",
@@ -3339,7 +3339,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2320,
+  "expediente": 2320,
   "dni": "41038425",
   "nombres": "FERNANDO DAVID",
   "apaterno": "NAJAR",
@@ -3348,7 +3348,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2335,
+  "expediente": 2335,
   "dni": "70370819",
   "nombres": "WANDER",
   "apaterno": "VALLES",
@@ -3357,7 +3357,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2354,
+  "expediente": 2354,
   "dni": "71733545",
   "nombres": "MIGUEL ANGEL",
   "apaterno": "TARANCO",
@@ -3366,7 +3366,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2360,
+  "expediente": 2360,
   "dni": "71733540",
   "nombres": "LAURY",
   "apaterno": "TARANCO",
@@ -3375,7 +3375,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2361,
+  "expediente": 2361,
   "dni": "73318257",
   "nombres": "JOSE JHONATHAN",
   "apaterno": "RENGIFO",
@@ -3384,7 +3384,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2384,
+  "expediente": 2384,
   "dni": "40743150",
   "nombres": "KELLY STACY",
   "apaterno": "GAMARRA",
@@ -3393,7 +3393,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2406,
+  "expediente": 2406,
   "dni": "71667374",
   "nombres": "PITER ESCOTH",
   "apaterno": "DAVILA",
@@ -3402,7 +3402,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2413,
+  "expediente": 2413,
   "dni": "71897037",
   "nombres": "GILBERT RAFAEL",
   "apaterno": "FERNANDEZ",
@@ -3411,7 +3411,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2423,
+  "expediente": 2423,
   "dni": "42664006",
   "nombres": "PAUL ROGER",
   "apaterno": "MONTALVAN",
@@ -3420,7 +3420,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2432,
+  "expediente": 2432,
   "dni": "76369224",
   "nombres": "MILAGROS DE JESUS",
   "apaterno": "VELASCO",
@@ -3429,7 +3429,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2459,
+  "expediente": 2459,
   "dni": "70136019",
   "nombres": "MANASES",
   "apaterno": "RUIZ",
@@ -3438,7 +3438,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2464,
+  "expediente": 2464,
   "dni": "00497854",
   "nombres": "MAX OMAR",
   "apaterno": "RODRIGUEZ",
@@ -3447,7 +3447,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2469,
+  "expediente": 2469,
   "dni": "71255497",
   "nombres": "DANIEL ALBERTO",
   "apaterno": "VASQUEZ",
@@ -3456,7 +3456,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2475,
+  "expediente": 2475,
   "dni": "42090987",
   "nombres": "JUAN CARLOS",
   "apaterno": "MACHUCA",
@@ -3465,7 +3465,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2568,
+  "expediente": 2568,
   "dni": "75799444",
   "nombres": "DAVID",
   "apaterno": "MAFALDO",
@@ -3474,7 +3474,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2581,
+  "expediente": 2581,
   "dni": "43930339",
   "nombres": "PAULO FERNANDO",
   "apaterno": "LAUREL",
@@ -3483,7 +3483,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2407,
+  "expediente": 2407,
   "dni": "05380723",
   "nombres": "CARMEN DORINDA DA",
   "apaterno": "SILVA",
@@ -3492,7 +3492,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2411,
+  "expediente": 2411,
   "dni": "10298749",
   "nombres": "PAUL DAVID",
   "apaterno": "TELLO",
@@ -3501,7 +3501,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2414,
+  "expediente": 2414,
   "dni": "41239606",
   "nombres": "ERICSSON POOL",
   "apaterno": "GUERRA",
@@ -3510,7 +3510,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2415,
+  "expediente": 2415,
   "dni": "41678340",
   "nombres": "JAMES IVAN",
   "apaterno": "VASQUEZ",
@@ -3519,7 +3519,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2416,
+  "expediente": 2416,
   "dni": "72352138",
   "nombres": "DIANA CAROLINA",
   "apaterno": "SANTANA",
@@ -3528,7 +3528,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2418,
+  "expediente": 2418,
   "dni": "72211167",
   "nombres": "LUIS ALFONSO ",
   "apaterno": "MATUTE",
@@ -3537,7 +3537,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2421,
+  "expediente": 2421,
   "dni": "42372071",
   "nombres": "EDWARD",
   "apaterno": "BENITES",
@@ -3546,7 +3546,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2425,
+  "expediente": 2425,
   "dni": "40336795",
   "nombres": "LUIS ARQUIMEDES ",
   "apaterno": "DEL AGUILA",
@@ -3555,7 +3555,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2426,
+  "expediente": 2426,
   "dni": "72788406",
   "nombres": "KARLA JANETH",
   "apaterno": "REATEGUI",
@@ -3564,7 +3564,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2427,
+  "expediente": 2427,
   "dni": "44615816",
   "nombres": "CYNTHIA MARIELA",
   "apaterno": "AYLLON",
@@ -3573,7 +3573,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2428,
+  "expediente": 2428,
   "dni": "73787276",
   "nombres": "VALERIA STEPHANIE",
   "apaterno": "SAAVEDRA",
@@ -3582,7 +3582,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2429,
+  "expediente": 2429,
   "dni": "42529951",
   "nombres": "GABRIEL",
   "apaterno": "CARDENAS",
@@ -3591,7 +3591,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2430,
+  "expediente": 2430,
   "dni": "43175314",
   "nombres": "HECTOR FRANCISCO",
   "apaterno": "MENACHO",
@@ -3600,7 +3600,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2433,
+  "expediente": 2433,
   "dni": "42662074",
   "nombres": "GRETER KATHERINE",
   "apaterno": "SOTELO",
@@ -3609,7 +3609,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2437,
+  "expediente": 2437,
   "dni": "41972354",
   "nombres": "DENNIS INGRID",
   "apaterno": "TORRES",
@@ -3618,7 +3618,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2440,
+  "expediente": 2440,
   "dni": "73986902",
   "nombres": "ROBERT MIGUEL",
   "apaterno": "RIOS",
@@ -3627,7 +3627,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2443,
+  "expediente": 2443,
   "dni": "42358186",
   "nombres": "PATRICIA",
   "apaterno": "PEÑA",
@@ -3636,7 +3636,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2444,
+  "expediente": 2444,
   "dni": "70929268",
   "nombres": "LUIS ALBERTO",
   "apaterno": "SANCHEZ",
@@ -3645,7 +3645,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2447,
+  "expediente": 2447,
   "dni": "43715340",
   "nombres": "JOHAN AUGUSTO",
   "apaterno": "GUEVARA",
@@ -3654,7 +3654,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2449,
+  "expediente": 2449,
   "dni": "71323797",
   "nombres": "MAELA",
   "apaterno": "AMASIFUEN",
@@ -3663,7 +3663,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2451,
+  "expediente": 2451,
   "dni": "72623049",
   "nombres": "CHRISTIAN ALEXANDER",
   "apaterno": "GRANDEZ",
@@ -3672,7 +3672,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2452,
+  "expediente": 2452,
   "dni": "43275503",
   "nombres": "LUZ DEL ROSARIO",
   "apaterno": "MURRIETA",
@@ -3681,7 +3681,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2453,
+  "expediente": 2453,
   "dni": "71957662",
   "nombres": "NATHALY",
   "apaterno": "UBILLUZ",
@@ -3690,7 +3690,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2454,
+  "expediente": 2454,
   "dni": "70368444",
   "nombres": "ANTHONY ADRIAN",
   "apaterno": "ROJAS",
@@ -3699,7 +3699,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2455,
+  "expediente": 2455,
   "dni": "72899777",
   "nombres": "JUANA LUISA",
   "apaterno": "VILLACORTA",
@@ -3708,7 +3708,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2456,
+  "expediente": 2456,
   "dni": "05353848",
   "nombres": "ROGER MARTIN",
   "apaterno": "SANCHEZ",
@@ -3717,7 +3717,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2457,
+  "expediente": 2457,
   "dni": "08877679",
   "nombres": "ELIO VICENTE",
   "apaterno": "MONTAÑEZ",
@@ -3726,7 +3726,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2460,
+  "expediente": 2460,
   "dni": "72894293",
   "nombres": "JIN POOL",
   "apaterno": "GUERRA",
@@ -3735,7 +3735,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2461,
+  "expediente": 2461,
   "dni": "05322535",
   "nombres": "MARCO ANTONIO",
   "apaterno": "CHECKLEY",
@@ -3744,7 +3744,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2462,
+  "expediente": 2462,
   "dni": "44112059",
   "nombres": "WILBER",
   "apaterno": "TORRES",
@@ -3753,7 +3753,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2463,
+  "expediente": 2463,
   "dni": "41939711",
   "nombres": "CARLOS LUIS",
   "apaterno": "TELLO",
@@ -3762,7 +3762,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2467,
+  "expediente": 2467,
   "dni": "75723884",
   "nombres": "CLAUDIA JULIANA",
   "apaterno": "AMACIFUEN",
@@ -3771,7 +3771,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2470,
+  "expediente": 2470,
   "dni": "05385664",
   "nombres": "JERRY",
   "apaterno": "VASQUEZ",
@@ -3780,7 +3780,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2477,
+  "expediente": 2477,
   "dni": "71574546",
   "nombres": "LADY DAMARIS",
   "apaterno": "FLORES",
@@ -3789,7 +3789,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2478,
+  "expediente": 2478,
   "dni": "40862800",
   "nombres": "MARY LISSIEN",
   "apaterno": "VASQUEZ",
@@ -3798,7 +3798,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2487,
+  "expediente": 2487,
   "dni": "71307809",
   "nombres": "PILAR",
   "apaterno": "SAENZ",
@@ -3807,7 +3807,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2488,
+  "expediente": 2488,
   "dni": "71960824",
   "nombres": "LINDSEY IVANI",
   "apaterno": "AMARINGO",
@@ -3816,7 +3816,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2490,
+  "expediente": 2490,
   "dni": "42555982",
   "nombres": "ALBERTO SHIGUENOBU",
   "apaterno": "OSHIRO",
@@ -3825,7 +3825,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2493,
+  "expediente": 2493,
   "dni": "43022071",
   "nombres": "JULIO CESAR",
   "apaterno": "LLONTOP",
@@ -3834,7 +3834,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2494,
+  "expediente": 2494,
   "dni": "72737401",
   "nombres": "GREICY FIORELLA",
   "apaterno": "RODRIGUEZ",
@@ -3843,7 +3843,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2495,
+  "expediente": 2495,
   "dni": "62566851",
   "nombres": "MIGUEL ANGEL",
   "apaterno": "LIZARZABURU",
@@ -3852,7 +3852,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2516,
+  "expediente": 2516,
   "dni": "45329479",
   "nombres": "LIZ GIULIANA",
   "apaterno": "MODICA",
@@ -3861,7 +3861,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2519,
+  "expediente": 2519,
   "dni": "42597185",
   "nombres": "GIULIO OMAR",
   "apaterno": "FLORES",
@@ -3870,7 +3870,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2520,
+  "expediente": 2520,
   "dni": "40955577",
   "nombres": "LENER",
   "apaterno": "TUESTA",
@@ -3879,7 +3879,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2533,
+  "expediente": 2533,
   "dni": "70694270",
   "nombres": "JOSE LUIS",
   "apaterno": "PEREZ",
@@ -3888,7 +3888,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2534,
+  "expediente": 2534,
   "dni": "47009267",
   "nombres": "MICHELEE BARBARA",
   "apaterno": "FLORES",
@@ -3897,7 +3897,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2535,
+  "expediente": 2535,
   "dni": "47098199",
   "nombres": "OSCAR DANIEL ",
   "apaterno": "ROSALES",
@@ -3906,7 +3906,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2536,
+  "expediente": 2536,
   "dni": "40438326",
   "nombres": "INMA YADIRA",
   "apaterno": "BARBARAN",
@@ -3915,7 +3915,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2553,
+  "expediente": 2553,
   "dni": "71002782",
   "nombres": "CHRISTIAN GERARD",
   "apaterno": "CORIAT",
@@ -3924,7 +3924,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2554,
+  "expediente": 2554,
   "dni": "73052217",
   "nombres": "GUSTY BRANDON",
   "apaterno": "FERNANDEZ",
@@ -3933,7 +3933,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2586,
+  "expediente": 2586,
   "dni": "05210956",
   "nombres": "MARIO",
   "apaterno": "COLLANTES",
@@ -3942,7 +3942,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2594,
+  "expediente": 2594,
   "dni": "05331812",
   "nombres": "LUISA ANGELICA",
   "apaterno": "BARBARAN",
@@ -3951,7 +3951,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2595,
+  "expediente": 2595,
   "dni": "44165930",
   "nombres": "JHANIN LISSETTE",
   "apaterno": "YALTA",
@@ -3960,7 +3960,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1673,
+  "expediente": 1673,
   "dni": "40942464",
   "nombres": "MARTIN ALFREDO",
   "apaterno": "LOPEZ",
@@ -3969,7 +3969,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1674,
+  "expediente": 1674,
   "dni": "40155320",
   "nombres": "LISANDRO",
   "apaterno": "CATASHUNGA",
@@ -3978,7 +3978,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1675,
+  "expediente": 1675,
   "dni": "42012811",
   "nombres": "LUDWING FRANK ",
   "apaterno": "DEL AGUILA",
@@ -3987,7 +3987,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1676,
+  "expediente": 1676,
   "dni": "74042762",
   "nombres": "ANGELICA DOLORES",
   "apaterno": "GONZALES",
@@ -3996,7 +3996,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1677,
+  "expediente": 1677,
   "dni": "44328868",
   "nombres": "MANUEL EMILIO",
   "apaterno": "FELIPE",
@@ -4005,7 +4005,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1678,
+  "expediente": 1678,
   "dni": "05381061",
   "nombres": "OFELIA ROCIO ",
   "apaterno": "VALERA ",
@@ -4014,7 +4014,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1680,
+  "expediente": 1680,
   "dni": "44875730",
   "nombres": "JEISSEN",
   "apaterno": "RAMIREZ",
@@ -4023,7 +4023,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1682,
+  "expediente": 1682,
   "dni": "05380585",
   "nombres": "KARINA",
   "apaterno": "ISUIZA",
@@ -4032,7 +4032,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1683,
+  "expediente": 1683,
   "dni": "72039524",
   "nombres": "ANA MILAGROS",
   "apaterno": "AGUILAR",
@@ -4041,7 +4041,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1684,
+  "expediente": 1684,
   "dni": "46307422",
   "nombres": "CESAR AUGUSTO",
   "apaterno": "GARCIA",
@@ -4050,7 +4050,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1688,
+  "expediente": 1688,
   "dni": "72740117",
   "nombres": "FABRIZIO JHOSUE",
   "apaterno": "RENGIFO",
@@ -4059,7 +4059,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1692,
+  "expediente": 1692,
   "dni": "46483253",
   "nombres": "ANA TEREZA",
   "apaterno": "CHAPOÑAN",
@@ -4068,7 +4068,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1693,
+  "expediente": 1693,
   "dni": "42223358",
   "nombres": "LIA",
   "apaterno": "TUESTA",
@@ -4077,7 +4077,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1694,
+  "expediente": 1694,
   "dni": "43021054",
   "nombres": "DORA LIZBETH",
   "apaterno": "PINCHI",
@@ -4086,7 +4086,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1695,
+  "expediente": 1695,
   "dni": "72841941",
   "nombres": "SURECHT ALBERTO",
   "apaterno": "RUIZ",
@@ -4095,7 +4095,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1697,
+  "expediente": 1697,
   "dni": "46701232",
   "nombres": "JUANITA ESTHER",
   "apaterno": "LOPEZ",
@@ -4104,7 +4104,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1698,
+  "expediente": 1698,
   "dni": "05339311",
   "nombres": "JORGE MIGUEL ",
   "apaterno": "DEL AGUILA",
@@ -4113,7 +4113,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1700,
+  "expediente": 1700,
   "dni": "05347652",
   "nombres": "LUIS ALBERTO",
   "apaterno": "SOLIS",
@@ -4122,7 +4122,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1701,
+  "expediente": 1701,
   "dni": "42389963",
   "nombres": "DANNY JAVIER",
   "apaterno": "DIAZ",
@@ -4131,7 +4131,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1703,
+  "expediente": 1703,
   "dni": "05376298",
   "nombres": "MARITZA YESSENIA",
   "apaterno": "SANCHEZ",
@@ -4140,7 +4140,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1704,
+  "expediente": 1704,
   "dni": "05407750",
   "nombres": "WALTER AUGUSTO",
   "apaterno": "PINEDO",
@@ -4149,7 +4149,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1705,
+  "expediente": 1705,
   "dni": "70018321",
   "nombres": "JOYCI PRISCILA",
   "apaterno": "CASANOVA",
@@ -4158,7 +4158,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1708,
+  "expediente": 1708,
   "dni": "44908465",
   "nombres": "FERNANDO DAVID",
   "apaterno": "TULUMBA",
@@ -4167,7 +4167,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1714,
+  "expediente": 1714,
   "dni": "10764040",
   "nombres": "OFELIA ELVINA",
   "apaterno": "IRENE",
@@ -4176,7 +4176,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1715,
+  "expediente": 1715,
   "dni": "45198019",
   "nombres": "ALAIN ANDRE",
   "apaterno": "SOPLIN",
@@ -4185,7 +4185,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1722,
+  "expediente": 1722,
   "dni": "44125803",
   "nombres": "LILIBETH",
   "apaterno": "ACUÑA",
@@ -4194,7 +4194,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1724,
+  "expediente": 1724,
   "dni": "05417523",
   "nombres": "VICTOR MITCHEL",
   "apaterno": "PEREA",
@@ -4203,7 +4203,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1725,
+  "expediente": 1725,
   "dni": "70232886",
   "nombres": "GALITA",
   "apaterno": "ZUMBA",
@@ -4212,7 +4212,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1726,
+  "expediente": 1726,
   "dni": "74311203",
   "nombres": "RUTH LILIANA",
   "apaterno": "FLORES",
@@ -4221,7 +4221,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1728,
+  "expediente": 1728,
   "dni": "70666791",
   "nombres": "ABEL ALEXANDER",
   "apaterno": "PANDURO",
@@ -4230,7 +4230,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1729,
+  "expediente": 1729,
   "dni": "71920871",
   "nombres": "HELI",
   "apaterno": "BARRON",
@@ -4239,7 +4239,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1730,
+  "expediente": 1730,
   "dni": "41180647",
   "nombres": "MARIA LUISA",
   "apaterno": "GARCIA",
@@ -4248,7 +4248,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1731,
+  "expediente": 1731,
   "dni": "70556484",
   "nombres": "BRIAN JOAO",
   "apaterno": "GONZALES",
@@ -4257,7 +4257,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1733,
+  "expediente": 1733,
   "dni": "70749125",
   "nombres": "SIR HENRY",
   "apaterno": "HUAMAN",
@@ -4266,7 +4266,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1734,
+  "expediente": 1734,
   "dni": "74037095",
   "nombres": "HAROLD KENNY",
   "apaterno": "WENINGER",
@@ -4275,7 +4275,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1735,
+  "expediente": 1735,
   "dni": "71442361",
   "nombres": "ROBERTO CARLOS",
   "apaterno": "TUESTA",
@@ -4284,7 +4284,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1737,
+  "expediente": 1737,
   "dni": "71314434",
   "nombres": "NELSON AARON DAVID",
   "apaterno": "FERNANDEZ",
@@ -4293,7 +4293,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1738,
+  "expediente": 1738,
   "dni": "72420250",
   "nombres": "ISABEL",
   "apaterno": "TAMBOR",
@@ -4302,7 +4302,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1741,
+  "expediente": 1741,
   "dni": "42916486",
   "nombres": "MELIDA NATHALY",
   "apaterno": "SANCHEZ",
@@ -4311,7 +4311,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1744,
+  "expediente": 1744,
   "dni": "05283292",
   "nombres": "MARIA LUZ",
   "apaterno": "OLIVA",
@@ -4320,7 +4320,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1746,
+  "expediente": 1746,
   "dni": "45429693",
   "nombres": "CARLOS HUGO",
   "apaterno": "TENORIO",
@@ -4329,7 +4329,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1747,
+  "expediente": 1747,
   "dni": "05204897",
   "nombres": "ANA ISABEL",
   "apaterno": "JAEN",
@@ -4338,7 +4338,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1748,
+  "expediente": 1748,
   "dni": "72039540",
   "nombres": "ALMENDRA POLET",
   "apaterno": "DEL AGUILA",
@@ -4347,7 +4347,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1750,
+  "expediente": 1750,
   "dni": "47626644",
   "nombres": "CINTHYA MADELEINE",
   "apaterno": "FLORES",
@@ -4356,7 +4356,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1751,
+  "expediente": 1751,
   "dni": "74213660",
   "nombres": "SERGIO",
   "apaterno": "PEREZ",
@@ -4365,7 +4365,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1753,
+  "expediente": 1753,
   "dni": "09633106",
   "nombres": "RICHARD JONATHAN",
   "apaterno": "GONZALES",
@@ -4374,7 +4374,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1759,
+  "expediente": 1759,
   "dni": "42875400",
   "nombres": "ROLIN",
   "apaterno": "TAMBOR",
@@ -4383,7 +4383,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1760,
+  "expediente": 1760,
   "dni": "43888527",
   "nombres": "JOSE ANTONIO",
   "apaterno": "AMPUDIA",
@@ -4392,7 +4392,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1761,
+  "expediente": 1761,
   "dni": "72812799",
   "nombres": "ALVARO MIGUEL",
   "apaterno": "DAVILA",
@@ -4401,7 +4401,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1762,
+  "expediente": 1762,
   "dni": "45071073",
   "nombres": "HECTOR HEINE",
   "apaterno": "HIDALGO",
@@ -4410,7 +4410,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1763,
+  "expediente": 1763,
   "dni": "45313944",
   "nombres": "FRANZ HARRISON",
   "apaterno": "CERRON",
@@ -4419,7 +4419,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1764,
+  "expediente": 1764,
   "dni": "05415509",
   "nombres": "SANDRO FREDDY",
   "apaterno": "SANCHEZ",
@@ -4428,7 +4428,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1765,
+  "expediente": 1765,
   "dni": "72453533",
   "nombres": "DIEGO CELITO",
   "apaterno": "FLORES",
@@ -4437,7 +4437,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1767,
+  "expediente": 1767,
   "dni": "41210914",
   "nombres": "JIMMY LUDICINIO",
   "apaterno": "ZARAGOZA",
@@ -4446,7 +4446,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1768,
+  "expediente": 1768,
   "dni": "71110180",
   "nombres": "JOSE OSWALDO",
   "apaterno": "LABAJOS",
@@ -4455,7 +4455,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1769,
+  "expediente": 1769,
   "dni": "43715339",
   "nombres": "CLAUDIA CAROLINA",
   "apaterno": "ROJAS",
@@ -4464,7 +4464,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1772,
+  "expediente": 1772,
   "dni": "42969796",
   "nombres": "EDGARD",
   "apaterno": "OCAMPO",
@@ -4473,7 +4473,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1773,
+  "expediente": 1773,
   "dni": "72536625",
   "nombres": "DORIS RUBI",
   "apaterno": "QUINTEROS",
@@ -4482,7 +4482,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1778,
+  "expediente": 1778,
   "dni": "44013311",
   "nombres": "JORGE MARTIN",
   "apaterno": "MAGIPO",
@@ -4491,7 +4491,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1781,
+  "expediente": 1781,
   "dni": "42514596",
   "nombres": "CHRISTIAN MARTIN",
   "apaterno": "VILLAVICENCIO",
@@ -4500,7 +4500,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1782,
+  "expediente": 1782,
   "dni": "40212374",
   "nombres": "HENRY ANTONIO",
   "apaterno": "FLORES",
@@ -4509,7 +4509,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1785,
+  "expediente": 1785,
   "dni": "70347334",
   "nombres": "ANNE LUZ",
   "apaterno": "VASQUEZ",
@@ -4518,7 +4518,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1786,
+  "expediente": 1786,
   "dni": "05335867",
   "nombres": "JACQUELINE ",
   "apaterno": "PEREA ",
@@ -4527,7 +4527,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1787,
+  "expediente": 1787,
   "dni": "41081825",
   "nombres": "ABEL",
   "apaterno": "SEVILLANO",
@@ -4536,7 +4536,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1790,
+  "expediente": 1790,
   "dni": "43479615",
   "nombres": "ANA FILOMENA",
   "apaterno": "ALVIS",
@@ -4545,7 +4545,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1791,
+  "expediente": 1791,
   "dni": "41481010",
   "nombres": "SOLEDAD ANDREA",
   "apaterno": "SILES",
@@ -4554,7 +4554,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1793,
+  "expediente": 1793,
   "dni": "73078462",
   "nombres": "ROSA GABRIELA",
   "apaterno": "FLORES",
@@ -4563,7 +4563,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1795,
+  "expediente": 1795,
   "dni": "46777211",
   "nombres": "JAVIER GUSTAVO",
   "apaterno": "PINTO",
@@ -4572,7 +4572,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1799,
+  "expediente": 1799,
   "dni": "42664005",
   "nombres": "OSCAR WILLIAM",
   "apaterno": "OROZCO",
@@ -4581,7 +4581,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1801,
+  "expediente": 1801,
   "dni": "42764107",
   "nombres": "URSULA",
   "apaterno": "IÑAPE",
@@ -4590,7 +4590,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1803,
+  "expediente": 1803,
   "dni": "44645583",
   "nombres": "MANUEL ALEJANDRO",
   "apaterno": "SALAS",
@@ -4599,7 +4599,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1805,
+  "expediente": 1805,
   "dni": "71227749",
   "nombres": "FULVIA KATHERINE",
   "apaterno": "GUERRERO",
@@ -4608,7 +4608,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1808,
+  "expediente": 1808,
   "dni": "70246018",
   "nombres": "JHONATAN",
   "apaterno": "RENGIFO",
@@ -4617,7 +4617,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1810,
+  "expediente": 1810,
   "dni": "45441234",
   "nombres": "JOSE GABRIEL",
   "apaterno": "VILCA",
@@ -4626,7 +4626,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1811,
+  "expediente": 1811,
   "dni": "73129282",
   "nombres": "FRANCESCA EMILY",
   "apaterno": "FLORES",
@@ -4635,7 +4635,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1812,
+  "expediente": 1812,
   "dni": "05222413",
   "nombres": "CARLOS",
   "apaterno": "BARDALES",
@@ -4644,7 +4644,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1813,
+  "expediente": 1813,
   "dni": "70227970",
   "nombres": "PABLO HERARDO",
   "apaterno": "SANCHEZ",
@@ -4653,7 +4653,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1814,
+  "expediente": 1814,
   "dni": "47031112",
   "nombres": "DENISSE PATRICIA",
   "apaterno": "SALAS",
@@ -4662,7 +4662,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1816,
+  "expediente": 1816,
   "dni": "40641854",
   "nombres": "NATALIA",
   "apaterno": "GOMEZ",
@@ -4671,7 +4671,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1818,
+  "expediente": 1818,
   "dni": "40964719",
   "nombres": "ALDO ROBER",
   "apaterno": "MACAHUACHI",
@@ -4680,7 +4680,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1819,
+  "expediente": 1819,
   "dni": "70687204",
   "nombres": "REGINALDO SILVESTRE",
   "apaterno": "PINEDO",
@@ -4689,7 +4689,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1821,
+  "expediente": 1821,
   "dni": "05374940",
   "nombres": "GOLBERTH",
   "apaterno": "CHUQUIVAL",
@@ -4698,7 +4698,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1822,
+  "expediente": 1822,
   "dni": "71082069",
   "nombres": "BRAYAN MICHE",
   "apaterno": "RODRIGUEZ",
@@ -4707,7 +4707,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1825,
+  "expediente": 1825,
   "dni": "47668064",
   "nombres": "PIERO CARLOS",
   "apaterno": "BARDALES",
@@ -4716,7 +4716,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1826,
+  "expediente": 1826,
   "dni": "40012540",
   "nombres": "JAVIER ABEL",
   "apaterno": "HIDALGO",
@@ -4725,7 +4725,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1827,
+  "expediente": 1827,
   "dni": "72664655",
   "nombres": "JHONATAN",
   "apaterno": "TUESTA",
@@ -4734,7 +4734,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1828,
+  "expediente": 1828,
   "dni": "43310123",
   "nombres": "JOSE ALBERTO",
   "apaterno": "CARRILLO",
@@ -4743,7 +4743,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1831,
+  "expediente": 1831,
   "dni": "44768652",
   "nombres": "KARYM STEPHANIE",
   "apaterno": "CARRILLO",
@@ -4752,7 +4752,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1834,
+  "expediente": 1834,
   "dni": "46578609",
   "nombres": "KARL WILLIAN",
   "apaterno": "RIOS",
@@ -4761,7 +4761,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1839,
+  "expediente": 1839,
   "dni": "71287043",
   "nombres": "ANDY AMERICO",
   "apaterno": "QUISPE",
@@ -4770,7 +4770,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1840,
+  "expediente": 1840,
   "dni": "74139652",
   "nombres": "LOURDES ESTHER",
   "apaterno": "TORRES",
@@ -4779,7 +4779,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1841,
+  "expediente": 1841,
   "dni": "45909697",
   "nombres": "MOURIEL ALEXANDRA",
   "apaterno": "FREITAS",
@@ -4788,7 +4788,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1842,
+  "expediente": 1842,
   "dni": "41319177",
   "nombres": "ANWAR KELLY",
   "apaterno": "ALVARADO",
@@ -4797,7 +4797,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1843,
+  "expediente": 1843,
   "dni": "44504349",
   "nombres": "RAUWLINSON",
   "apaterno": "NAVARRO",
@@ -4806,7 +4806,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1844,
+  "expediente": 1844,
   "dni": "44569644",
   "nombres": "ALFREDO",
   "apaterno": "ALEGRIA",
@@ -4815,7 +4815,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1849,
+  "expediente": 1849,
   "dni": "45336086",
   "nombres": "AMERICO",
   "apaterno": "VELA",
@@ -4824,7 +4824,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1850,
+  "expediente": 1850,
   "dni": "40970610",
   "nombres": "VIOLETA MAGALI",
   "apaterno": "HUAYANE",
@@ -4833,7 +4833,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1855,
+  "expediente": 1855,
   "dni": "05365621",
   "nombres": "JOSE ALBERTO",
   "apaterno": "CARRILLO",
@@ -4842,7 +4842,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1858,
+  "expediente": 1858,
   "dni": "71255757",
   "nombres": "LUIS FERNANDO",
   "apaterno": "SANJURJO",
@@ -4851,7 +4851,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1860,
+  "expediente": 1860,
   "dni": "72917925",
   "nombres": "CARLOS MANUEL",
   "apaterno": "VALERA",
@@ -4860,7 +4860,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1863,
+  "expediente": 1863,
   "dni": "42898261",
   "nombres": "JUAN ELI",
   "apaterno": "REYES",
@@ -4869,7 +4869,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1864,
+  "expediente": 1864,
   "dni": "47242512",
   "nombres": "JOSE JAVIER",
   "apaterno": "REYES",
@@ -4878,7 +4878,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1869,
+  "expediente": 1869,
   "dni": "46883445",
   "nombres": "EDDY FRANCK",
   "apaterno": "QUIROZ",
@@ -4887,7 +4887,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1870,
+  "expediente": 1870,
   "dni": "75194501",
   "nombres": "ROMMY",
   "apaterno": "YAÑEZ",
@@ -4896,7 +4896,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1872,
+  "expediente": 1872,
   "dni": "47936636",
   "nombres": "RICARDO ENRIQUE",
   "apaterno": "LLERENA",
@@ -4905,7 +4905,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1873,
+  "expediente": 1873,
   "dni": "43697691",
   "nombres": "LUIS ANDRES",
   "apaterno": "VALLES",
@@ -4914,7 +4914,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1874,
+  "expediente": 1874,
   "dni": "70510366",
   "nombres": "MARIA ELENA DEL CARMEN",
   "apaterno": "VIDAL",
@@ -4923,7 +4923,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1875,
+  "expediente": 1875,
   "dni": "77344176",
   "nombres": "CLAUDIA MISHELL",
   "apaterno": "GONZALES",
@@ -4932,7 +4932,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1876,
+  "expediente": 1876,
   "dni": "43780258",
   "nombres": "PETRONILA MAGALY",
   "apaterno": "CASTILLO",
@@ -4941,7 +4941,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1877,
+  "expediente": 1877,
   "dni": "45882955",
   "nombres": "PABLO JOSE",
   "apaterno": "CABRERA",
@@ -4950,7 +4950,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1878,
+  "expediente": 1878,
   "dni": "44338375",
   "nombres": "INGRID KARLA ",
   "apaterno": "REGUERA",
@@ -4959,7 +4959,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1881,
+  "expediente": 1881,
   "dni": "43780263",
   "nombres": "DOLORES LISSETT",
   "apaterno": "CASTILLO",
@@ -4968,7 +4968,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1882,
+  "expediente": 1882,
   "dni": "42731624",
   "nombres": "MAGNO JOAQUIN",
   "apaterno": "RUIZ",
@@ -4977,7 +4977,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1883,
+  "expediente": 1883,
   "dni": "73805530",
   "nombres": "JORDY JOAO PEDRO",
   "apaterno": "PIZANGO",
@@ -4986,7 +4986,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1885,
+  "expediente": 1885,
   "dni": "72697510",
   "nombres": "JANNINA PIA",
   "apaterno": "NORIEGA",
@@ -4995,7 +4995,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1889,
+  "expediente": 1889,
   "dni": "73001656",
   "nombres": "PAUL MARCELO",
   "apaterno": "VALLES",
@@ -5004,7 +5004,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1890,
+  "expediente": 1890,
   "dni": "42220214",
   "nombres": "RAYMUNDO",
   "apaterno": "DEL AGUILA",
@@ -5013,7 +5013,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1896,
+  "expediente": 1896,
   "dni": "70100247",
   "nombres": "JORDI JAIRO ",
   "apaterno": "GARCIA",
@@ -5022,7 +5022,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1898,
+  "expediente": 1898,
   "dni": "72511256",
   "nombres": "ESTELA YAJAIRA",
   "apaterno": "PFENNIG",
@@ -5031,7 +5031,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1899,
+  "expediente": 1899,
   "dni": "70679571",
   "nombres": "DARCY KEVIN",
   "apaterno": "PASTRANA",
@@ -5040,7 +5040,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1900,
+  "expediente": 1900,
   "dni": "45860805",
   "nombres": "INDIRA STEPHANIE",
   "apaterno": "CASTRILLON",
@@ -5049,7 +5049,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1903,
+  "expediente": 1903,
   "dni": "71270932",
   "nombres": "VICTOR HUGO",
   "apaterno": "VELARDE",
@@ -5058,7 +5058,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1904,
+  "expediente": 1904,
   "dni": "71198097",
   "nombres": "RUBIS MARCELA",
   "apaterno": "SICCHAR",
@@ -5067,7 +5067,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1906,
+  "expediente": 1906,
   "dni": "42786870",
   "nombres": "JERRY LEWIS",
   "apaterno": "TELLO",
@@ -5076,7 +5076,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1907,
+  "expediente": 1907,
   "dni": "46071407",
   "nombres": "ALDO ANDERSON",
   "apaterno": "RUESTA",
@@ -5085,7 +5085,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1908,
+  "expediente": 1908,
   "dni": "47405667",
   "nombres": "GRETA ELIZABETH",
   "apaterno": "VALERA",
@@ -5094,7 +5094,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1910,
+  "expediente": 1910,
   "dni": "46470379",
   "nombres": "ROXANA",
   "apaterno": "MORI",
@@ -5103,7 +5103,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1915,
+  "expediente": 1915,
   "dni": "42195790",
   "nombres": "MARCOS CECILIO",
   "apaterno": "BANDA",
@@ -5112,7 +5112,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1923,
+  "expediente": 1923,
   "dni": "73691523",
   "nombres": "MARIANA LIZETH",
   "apaterno": "ESPINAR",
@@ -5121,7 +5121,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1924,
+  "expediente": 1924,
   "dni": "73451011",
   "nombres": "DILCIA MADALEYNI",
   "apaterno": "MEJIA",
@@ -5130,7 +5130,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1925,
+  "expediente": 1925,
   "dni": "75655189",
   "nombres": "JEAN PIERO",
   "apaterno": "BOCANEGRA",
@@ -5139,7 +5139,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1926,
+  "expediente": 1926,
   "dni": "05352738",
   "nombres": "HARRY",
   "apaterno": "RODRIGUEZ",
@@ -5148,7 +5148,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1928,
+  "expediente": 1928,
   "dni": "44734287",
   "nombres": "ROSARIO DEL CARMEN",
   "apaterno": "VARGAS",
@@ -5157,7 +5157,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1931,
+  "expediente": 1931,
   "dni": "05381677",
   "nombres": "GORKI",
   "apaterno": "VELA",
@@ -5166,7 +5166,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1939,
+  "expediente": 1939,
   "dni": "72953927",
   "nombres": "ROY GABRIEL",
   "apaterno": "DIAZ",
@@ -5175,7 +5175,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1942,
+  "expediente": 1942,
   "dni": "45100619",
   "nombres": "RINA FIORELLA",
   "apaterno": "RODRIGUEZ",
@@ -5184,7 +5184,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1943,
+  "expediente": 1943,
   "dni": "45300258",
   "nombres": "LEYDY LIZ MIRIEL",
   "apaterno": "LACHI",
@@ -5193,7 +5193,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1948,
+  "expediente": 1948,
   "dni": "05361200",
   "nombres": "JULIO CESAR",
   "apaterno": "LANDAETA",
@@ -5202,7 +5202,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1953,
+  "expediente": 1953,
   "dni": "43528638",
   "nombres": "CARLOS ALBERTO",
   "apaterno": "HERAS",
@@ -5211,7 +5211,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1955,
+  "expediente": 1955,
   "dni": "05202308",
   "nombres": "PEDRO",
   "apaterno": "VELA",
@@ -5220,7 +5220,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1957,
+  "expediente": 1957,
   "dni": "44823079",
   "nombres": "ELMER ABEL",
   "apaterno": "RAMIREZ",
@@ -5229,7 +5229,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1958,
+  "expediente": 1958,
   "dni": "05338683",
   "nombres": "EDWING FIDENCIO",
   "apaterno": "GARCIA",
@@ -5238,7 +5238,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1962,
+  "expediente": 1962,
   "dni": "42760283",
   "nombres": "GUILIANA MARISELA",
   "apaterno": "ALEMAN",
@@ -5247,7 +5247,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1963,
+  "expediente": 1963,
   "dni": "72021570",
   "nombres": "SOLANGE CANDY",
   "apaterno": "FLORES",
@@ -5256,7 +5256,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1964,
+  "expediente": 1964,
   "dni": "41650927",
   "nombres": "ANDY JACKSON",
   "apaterno": "ALAVA",
@@ -5265,7 +5265,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1965,
+  "expediente": 1965,
   "dni": "70092066",
   "nombres": "PIERO LIBER",
   "apaterno": "ALVAN",
@@ -5274,7 +5274,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1969,
+  "expediente": 1969,
   "dni": "40284690",
   "nombres": "JARLIS",
   "apaterno": "LOZANO",
@@ -5283,7 +5283,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1973,
+  "expediente": 1973,
   "dni": "40450536",
   "nombres": "WERNER",
   "apaterno": "ZEGARRA",
@@ -5292,7 +5292,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1977,
+  "expediente": 1977,
   "dni": "05416843",
   "nombres": "ROSA LIZETH",
   "apaterno": "ALVA",
@@ -5301,7 +5301,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1980,
+  "expediente": 1980,
   "dni": "43642204",
   "nombres": "GIDER JUNIOR",
   "apaterno": "VELA",
@@ -5310,7 +5310,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1984,
+  "expediente": 1984,
   "dni": "45612175",
   "nombres": "MARIA CRISTINA",
   "apaterno": "FERNANDEZ",
@@ -5319,7 +5319,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1985,
+  "expediente": 1985,
   "dni": "45314993",
   "nombres": "MARTHA ISABEL",
   "apaterno": "VILLEGAS",
@@ -5328,7 +5328,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1989,
+  "expediente": 1989,
   "dni": "42707478",
   "nombres": "RAQUEL NATHALY",
   "apaterno": "SILVANO",
@@ -5337,7 +5337,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1993,
+  "expediente": 1993,
   "dni": "44862134",
   "nombres": "CESAR AUGUSTO",
   "apaterno": "GAMIO",
@@ -5346,7 +5346,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1994,
+  "expediente": 1994,
   "dni": "47452525",
   "nombres": "SHENA MARILIA",
   "apaterno": "MACEDO",
@@ -5355,7 +5355,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1996,
+  "expediente": 1996,
   "dni": "05395228",
   "nombres": "CESAR AUGUSTO",
   "apaterno": "DONOHUE",
@@ -5364,7 +5364,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1999,
+  "expediente": 1999,
   "dni": "05381747",
   "nombres": "SEGUNDO FRANCISCO",
   "apaterno": "HERNANDEZ",
@@ -5373,7 +5373,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2007,
+  "expediente": 2007,
   "dni": "72760486",
   "nombres": "HELIA MERCEDES",
   "apaterno": "ARIAS",
@@ -5382,7 +5382,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2011,
+  "expediente": 2011,
   "dni": "46835102",
   "nombres": "CESAR GEOVANNI",
   "apaterno": "SIMON",
@@ -5391,7 +5391,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2013,
+  "expediente": 2013,
   "dni": "43769679",
   "nombres": "NARCY ARGELY",
   "apaterno": "BARDALES",
@@ -5400,7 +5400,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2014,
+  "expediente": 2014,
   "dni": "73602376",
   "nombres": "OSCAR ALEXIS OWEN",
   "apaterno": "RAMIREZ",
@@ -5409,7 +5409,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2015,
+  "expediente": 2015,
   "dni": "70074792",
   "nombres": "RAY HARRIS",
   "apaterno": "DEL AGUILA",
@@ -5418,7 +5418,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2019,
+  "expediente": 2019,
   "dni": "45401284",
   "nombres": "EDGAR JOSIAS",
   "apaterno": "FERNANDEZ",
@@ -5427,7 +5427,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2026,
+  "expediente": 2026,
   "dni": "46521356",
   "nombres": "MARKYE SIBILA TERESA",
   "apaterno": "PEREYRA",
@@ -5436,7 +5436,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2027,
+  "expediente": 2027,
   "dni": "41632766",
   "nombres": "ALEXANDER",
   "apaterno": "TORRES",
@@ -5445,7 +5445,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2031,
+  "expediente": 2031,
   "dni": "48160744",
   "nombres": "DANAE ARTEMIZ",
   "apaterno": "GONZALES",
@@ -5454,7 +5454,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2032,
+  "expediente": 2032,
   "dni": "42105900",
   "nombres": "OSCAR HUGO",
   "apaterno": "ESCOBEDO",
@@ -5463,7 +5463,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2033,
+  "expediente": 2033,
   "dni": "42097686",
   "nombres": "VICTOR PHOL",
   "apaterno": "ALVIS",
@@ -5472,7 +5472,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2034,
+  "expediente": 2034,
   "dni": "71098842",
   "nombres": "KARINA",
   "apaterno": "HUAMAN",
@@ -5481,7 +5481,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2037,
+  "expediente": 2037,
   "dni": "44467480",
   "nombres": "MARIO ALBERTO",
   "apaterno": "MOZOMBITE",
@@ -5490,7 +5490,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2038,
+  "expediente": 2038,
   "dni": "01163780",
   "nombres": "EDISON GILBERTO",
   "apaterno": "PIÑA",
@@ -5499,7 +5499,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2039,
+  "expediente": 2039,
   "dni": "40989790",
   "nombres": "RONALDO AUGUSTO",
   "apaterno": "CARDENAS",
@@ -5508,7 +5508,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2040,
+  "expediente": 2040,
   "dni": "70667631",
   "nombres": "PIERO JEFREY",
   "apaterno": "ZUMAETA",
@@ -5517,7 +5517,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2043,
+  "expediente": 2043,
   "dni": "48482253",
   "nombres": "ALEXIS VENANCIO",
   "apaterno": "RODRIGUEZ",
@@ -5526,7 +5526,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2044,
+  "expediente": 2044,
   "dni": "73142477",
   "nombres": "ARIANA ALEXANDRA",
   "apaterno": "FREITAS",
@@ -5535,7 +5535,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2046,
+  "expediente": 2046,
   "dni": "74160121",
   "nombres": "FRANSHESCA NADESCA",
   "apaterno": "NAVARRO",
@@ -5544,7 +5544,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2050,
+  "expediente": 2050,
   "dni": "70346640",
   "nombres": "FRANCIA MILAGROS",
   "apaterno": "MACEDO",
@@ -5553,7 +5553,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2051,
+  "expediente": 2051,
   "dni": "05336116",
   "nombres": "LOTI MELANIA",
   "apaterno": "RIMACHI",
@@ -5562,7 +5562,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2052,
+  "expediente": 2052,
   "dni": "43152879",
   "nombres": "CARLOS DANIEL",
   "apaterno": "PEREZ",
@@ -5571,7 +5571,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2059,
+  "expediente": 2059,
   "dni": "05407691",
   "nombres": "ERICA PATRICIA",
   "apaterno": "LLERENA",
@@ -5580,7 +5580,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2060,
+  "expediente": 2060,
   "dni": "45665000",
   "nombres": "JOSE SMITH",
   "apaterno": "PEREZ",
@@ -5589,7 +5589,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2061,
+  "expediente": 2061,
   "dni": "05240441",
   "nombres": "TELESFORO",
   "apaterno": "AREVALO",
@@ -5598,7 +5598,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2062,
+  "expediente": 2062,
   "dni": "43486033",
   "nombres": "LUIS ERNESTO",
   "apaterno": "MUDARRA",
@@ -5607,7 +5607,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2063,
+  "expediente": 2063,
   "dni": "70907019",
   "nombres": "VICTOR JORDY",
   "apaterno": "ORDOÑEZ",
@@ -5616,7 +5616,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2068,
+  "expediente": 2068,
   "dni": "70973917",
   "nombres": "EIMY VERONICA",
   "apaterno": "ALVARADO",
@@ -5625,7 +5625,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2071,
+  "expediente": 2071,
   "dni": "05380230",
   "nombres": "VICTOR ELMER",
   "apaterno": "PÉREZ",
@@ -5634,7 +5634,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2072,
+  "expediente": 2072,
   "dni": "74042223",
   "nombres": "LLENSI JOSEFINA",
   "apaterno": "CESPEDES",
@@ -5643,7 +5643,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2074,
+  "expediente": 2074,
   "dni": "71602439",
   "nombres": "NICOLN ELENA",
   "apaterno": "CORNEJO",
@@ -5652,7 +5652,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2077,
+  "expediente": 2077,
   "dni": "41793944",
   "nombres": "MIGUEL GUILLERMO",
   "apaterno": "ROJAS",
@@ -5661,7 +5661,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2079,
+  "expediente": 2079,
   "dni": "40529850",
   "nombres": "JOSE",
   "apaterno": "PEREZ",
@@ -5670,7 +5670,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2080,
+  "expediente": 2080,
   "dni": "05360098",
   "nombres": "WILO VALDEMAR",
   "apaterno": "PANAIFO",
@@ -5679,7 +5679,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2083,
+  "expediente": 2083,
   "dni": "45208387",
   "nombres": "SAILY JANICE",
   "apaterno": "RIVAS",
@@ -5688,7 +5688,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2084,
+  "expediente": 2084,
   "dni": "45277682",
   "nombres": "RICHAR",
   "apaterno": "HUANIO",
@@ -5697,7 +5697,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2086,
+  "expediente": 2086,
   "dni": "09327278",
   "nombres": "SERGIO FRANKLIN",
   "apaterno": "VILLAVERDE",
@@ -5706,7 +5706,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2087,
+  "expediente": 2087,
   "dni": "72969049",
   "nombres": "JOLVER JOSSEL",
   "apaterno": "DIAZ",
@@ -5715,7 +5715,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2090,
+  "expediente": 2090,
   "dni": "71221490",
   "nombres": "ALVA CRISTAL",
   "apaterno": "RAMOS",
@@ -5724,7 +5724,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2092,
+  "expediente": 2092,
   "dni": "46362214",
   "nombres": "OLIVER KERRY RAY",
   "apaterno": "ZAMBRANO",
@@ -5733,7 +5733,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2094,
+  "expediente": 2094,
   "dni": "43520004",
   "nombres": "PATRICIO LEAO DA",
   "apaterno": "SILVA",
@@ -5742,7 +5742,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2100,
+  "expediente": 2100,
   "dni": "05364030",
   "nombres": "NANCY ELIZABETH",
   "apaterno": "NORIEGA",
@@ -5751,7 +5751,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2101,
+  "expediente": 2101,
   "dni": "71574636",
   "nombres": "BREDDY JURASELY",
   "apaterno": "HIDALGO",
@@ -5760,7 +5760,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2107,
+  "expediente": 2107,
   "dni": "45770722",
   "nombres": "ZUZETTY FIORELA",
   "apaterno": "SAUCEDO",
@@ -5769,7 +5769,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2110,
+  "expediente": 2110,
   "dni": "45704950",
   "nombres": "KAREN",
   "apaterno": "LAO",
@@ -5778,7 +5778,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2114,
+  "expediente": 2114,
   "dni": "42932397",
   "nombres": "ABNER ANDERSON",
   "apaterno": "SAHUARICO",
@@ -5787,7 +5787,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2116,
+  "expediente": 2116,
   "dni": "71554809",
   "nombres": "ALAN DANIEL SEGUNDO",
   "apaterno": "LOPEZ",
@@ -5796,7 +5796,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2117,
+  "expediente": 2117,
   "dni": "70078187",
   "nombres": "AZUCENA",
   "apaterno": "SUAREZ",
@@ -5805,7 +5805,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2120,
+  "expediente": 2120,
   "dni": "70078726",
   "nombres": "JARY NERY",
   "apaterno": "CABANILLAS",
@@ -5814,7 +5814,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2122,
+  "expediente": 2122,
   "dni": "76181018",
   "nombres": "ROXY ARIEL",
   "apaterno": "RODRIGUEZ",
@@ -5823,7 +5823,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2131,
+  "expediente": 2131,
   "dni": "48539491",
   "nombres": "ELENA MARGARITA",
   "apaterno": "HIDALGO",
@@ -5832,7 +5832,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2132,
+  "expediente": 2132,
   "dni": "40761606",
   "nombres": "MARTIN",
   "apaterno": "RUIZ",
@@ -5841,7 +5841,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2135,
+  "expediente": 2135,
   "dni": "44234609",
   "nombres": "ANTONIO",
   "apaterno": "RIOS",
@@ -5850,7 +5850,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2137,
+  "expediente": 2137,
   "dni": "43580992",
   "nombres": "FREDDY",
   "apaterno": "TAMANI",
@@ -5859,7 +5859,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2146,
+  "expediente": 2146,
   "dni": "45764652",
   "nombres": "KAREN ROXANA",
   "apaterno": "BARDALES",
@@ -5868,7 +5868,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2147,
+  "expediente": 2147,
   "dni": "72295622",
   "nombres": "JHOMIRA DEL PILAR",
   "apaterno": "LOZANO",
@@ -5877,7 +5877,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2148,
+  "expediente": 2148,
   "dni": "46821850",
   "nombres": "JULIO MARCOS",
   "apaterno": "MORI",
@@ -5886,7 +5886,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2149,
+  "expediente": 2149,
   "dni": "41192742",
   "nombres": "SADITH",
   "apaterno": "YACTAYO",
@@ -5895,7 +5895,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2152,
+  "expediente": 2152,
   "dni": "70936908",
   "nombres": "JACKSON KELVIN ",
   "apaterno": "DEL AGUILA",
@@ -5904,7 +5904,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2153,
+  "expediente": 2153,
   "dni": "43069788",
   "nombres": "LUPITA MARIANA",
   "apaterno": "TOMASTO",
@@ -5913,7 +5913,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2155,
+  "expediente": 2155,
   "dni": "70836459",
   "nombres": "MARCO POLO",
   "apaterno": "RODRIGUEZ",
@@ -5922,7 +5922,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2156,
+  "expediente": 2156,
   "dni": "45976763",
   "nombres": "MILAGROS DESIREE",
   "apaterno": "CUBAS",
@@ -5931,7 +5931,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2157,
+  "expediente": 2157,
   "dni": "42841620",
   "nombres": "DINO GRAL",
   "apaterno": "CUHELLO",
@@ -5940,7 +5940,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2160,
+  "expediente": 2160,
   "dni": "70366155",
   "nombres": "MARDEN JOFFRE",
   "apaterno": "MONTALVAN",
@@ -5949,7 +5949,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2161,
+  "expediente": 2161,
   "dni": "10549687",
   "nombres": "CHRISTIAN NIELL",
   "apaterno": "RENGIFO",
@@ -5958,7 +5958,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2163,
+  "expediente": 2163,
   "dni": "70556757",
   "nombres": "JUAN MANUEL",
   "apaterno": "RAMIREZ",
@@ -5967,7 +5967,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2164,
+  "expediente": 2164,
   "dni": "40610950",
   "nombres": "GUILLIANY JISELITA",
   "apaterno": "DAVILA",
@@ -5976,7 +5976,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2165,
+  "expediente": 2165,
   "dni": "73107195",
   "nombres": "ADNEY GUSTAVO",
   "apaterno": "GIL",
@@ -5985,7 +5985,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2169,
+  "expediente": 2169,
   "dni": "40013539",
   "nombres": "JAMES KLINN",
   "apaterno": "ALVARADO",
@@ -5994,7 +5994,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2170,
+  "expediente": 2170,
   "dni": "42091481",
   "nombres": "GLENDY",
   "apaterno": "FLORES",
@@ -6003,7 +6003,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2171,
+  "expediente": 2171,
   "dni": "47160280",
   "nombres": "MARTHA",
   "apaterno": "SALDAÑA",
@@ -6012,7 +6012,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2172,
+  "expediente": 2172,
   "dni": "71227748",
   "nombres": "JENNIFER STEPHANIE",
   "apaterno": "BARDALES",
@@ -6021,7 +6021,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2175,
+  "expediente": 2175,
   "dni": "47064421",
   "nombres": "KATHERINE GRACE  ",
   "apaterno": "VELA",
@@ -6030,7 +6030,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2177,
+  "expediente": 2177,
   "dni": "05396009",
   "nombres": "ALEJANDRO LENIN",
   "apaterno": "VALERA",
@@ -6039,7 +6039,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2179,
+  "expediente": 2179,
   "dni": "76257804",
   "nombres": "HENRRY JUNIOR",
   "apaterno": "LLERENA",
@@ -6048,7 +6048,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2182,
+  "expediente": 2182,
   "dni": "44569679",
   "nombres": "ARELY",
   "apaterno": "BUSTOS",
@@ -6057,7 +6057,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2183,
+  "expediente": 2183,
   "dni": "70013773",
   "nombres": "LEO SAMIR",
   "apaterno": "BOCANEGRA",
@@ -6066,7 +6066,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2184,
+  "expediente": 2184,
   "dni": "71957666",
   "nombres": "PATRICIA ALMENDRA",
   "apaterno": "FASANANDO",
@@ -6075,7 +6075,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2186,
+  "expediente": 2186,
   "dni": "44042326",
   "nombres": "RONNIE ALFREDO",
   "apaterno": "VALENCIA",
@@ -6084,7 +6084,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2191,
+  "expediente": 2191,
   "dni": "44586613",
   "nombres": "JONNY ROSS",
   "apaterno": "FLORES",
@@ -6093,7 +6093,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2192,
+  "expediente": 2192,
   "dni": "41557901",
   "nombres": "VALERIA SUMAYA",
   "apaterno": "ROJAS",
@@ -6102,7 +6102,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2193,
+  "expediente": 2193,
   "dni": "41387146",
   "nombres": "GEORGE ANTONHY",
   "apaterno": "LOPEZ",
@@ -6111,7 +6111,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2197,
+  "expediente": 2197,
   "dni": "47290286",
   "nombres": "ESTEFANY JANIRA",
   "apaterno": "NAVARRO",
@@ -6120,7 +6120,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2199,
+  "expediente": 2199,
   "dni": "42519623",
   "nombres": "HEBER",
   "apaterno": "OCHAVANO",
@@ -6129,7 +6129,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2202,
+  "expediente": 2202,
   "dni": "43541223",
   "nombres": "RICARDO",
   "apaterno": "SALDAÑA",
@@ -6138,7 +6138,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2204,
+  "expediente": 2204,
   "dni": "72160078",
   "nombres": "JORGE LUPER",
   "apaterno": "DAVILA",
@@ -6147,7 +6147,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2207,
+  "expediente": 2207,
   "dni": "70929984",
   "nombres": "LINNI KENNI",
   "apaterno": "FIGUEROA",
@@ -6156,7 +6156,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2208,
+  "expediente": 2208,
   "dni": "41218566",
   "nombres": "MARCO ANTONIO",
   "apaterno": "NORIEGA",
@@ -6165,7 +6165,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2209,
+  "expediente": 2209,
   "dni": "70948559",
   "nombres": "KATTHERINNE ELIZABETH",
   "apaterno": "CABALLERO",
@@ -6174,7 +6174,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2211,
+  "expediente": 2211,
   "dni": "46525365",
   "nombres": "LINDER MOISES",
   "apaterno": "CHAVEZ",
@@ -6183,7 +6183,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2213,
+  "expediente": 2213,
   "dni": "45932576",
   "nombres": "ALEX FERNANDO",
   "apaterno": "TORRES",
@@ -6192,7 +6192,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2214,
+  "expediente": 2214,
   "dni": "45505247",
   "nombres": "ALEX MARTIN",
   "apaterno": "BABILONIA",
@@ -6201,7 +6201,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2216,
+  "expediente": 2216,
   "dni": "43419677",
   "nombres": "JHON EDWARD",
   "apaterno": "ARIRAMA",
@@ -6210,7 +6210,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2218,
+  "expediente": 2218,
   "dni": "43631047",
   "nombres": "LEOPOLDO DANTE",
   "apaterno": "PAIMA",
@@ -6219,7 +6219,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2219,
+  "expediente": 2219,
   "dni": "47553939",
   "nombres": "VANESA",
   "apaterno": "PAREDES",
@@ -6228,7 +6228,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2220,
+  "expediente": 2220,
   "dni": "05375969",
   "nombres": "GISSELA",
   "apaterno": "WONG",
@@ -6237,7 +6237,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2221,
+  "expediente": 2221,
   "dni": "42975221",
   "nombres": "GIANCARLO DANIEL",
   "apaterno": "LOPEZ",
@@ -6246,7 +6246,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2222,
+  "expediente": 2222,
   "dni": "73505290",
   "nombres": "KETTY VICTORIA PAREDES",
   "apaterno": "DA",
@@ -6255,7 +6255,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2223,
+  "expediente": 2223,
   "dni": "41223109",
   "nombres": "JAC ROCKY",
   "apaterno": "SIFUENTES",
@@ -6264,7 +6264,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2224,
+  "expediente": 2224,
   "dni": "70429284",
   "nombres": "ESCARLY MARIALID",
   "apaterno": "VILLACREZ",
@@ -6273,7 +6273,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2225,
+  "expediente": 2225,
   "dni": "41190017",
   "nombres": "ALBERTO",
   "apaterno": "PEÑA",
@@ -6282,7 +6282,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2228,
+  "expediente": 2228,
   "dni": "05347894",
   "nombres": "INGRID PATRICIA",
   "apaterno": "PEREZ",
@@ -6291,7 +6291,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2230,
+  "expediente": 2230,
   "dni": "45797248",
   "nombres": "SOCRATES HOMERO",
   "apaterno": "BORAÑO",
@@ -6300,7 +6300,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2231,
+  "expediente": 2231,
   "dni": "71236696",
   "nombres": "GERARDO RUBEN",
   "apaterno": "RENGIFO",
@@ -6309,7 +6309,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2233,
+  "expediente": 2233,
   "dni": "72616498",
   "nombres": "CARLOS RENAN",
   "apaterno": "RENGIFO",
@@ -6318,7 +6318,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2236,
+  "expediente": 2236,
   "dni": "05339167",
   "nombres": "ANGELA JAZMINA",
   "apaterno": "RIOS",
@@ -6327,7 +6327,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2240,
+  "expediente": 2240,
   "dni": "70275936",
   "nombres": "MARFIA",
   "apaterno": "COMETIVOS",
@@ -6336,7 +6336,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2241,
+  "expediente": 2241,
   "dni": "45286949",
   "nombres": "CESAR BRUNO",
   "apaterno": "RENGIFO",
@@ -6345,7 +6345,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2242,
+  "expediente": 2242,
   "dni": "40384620",
   "nombres": "NELLY LUZ ",
   "apaterno": "DEL CASTILLO",
@@ -6354,7 +6354,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2244,
+  "expediente": 2244,
   "dni": "72421819",
   "nombres": "JHONAR ROLDAN",
   "apaterno": "ARVELAES",
@@ -6363,7 +6363,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2245,
+  "expediente": 2245,
   "dni": "70750380",
   "nombres": "JHEFERSON ROMULO",
   "apaterno": "PINEDO",
@@ -6372,7 +6372,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2246,
+  "expediente": 2246,
   "dni": "44414676",
   "nombres": "HEINER",
   "apaterno": "RUIZ",
@@ -6381,7 +6381,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2248,
+  "expediente": 2248,
   "dni": "46215175",
   "nombres": "DANNA MARJORIE",
   "apaterno": "GODOY",
@@ -6390,7 +6390,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2249,
+  "expediente": 2249,
   "dni": "05364326",
   "nombres": "JARVEY",
   "apaterno": "FLORES",
@@ -6399,7 +6399,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2252,
+  "expediente": 2252,
   "dni": "70101672",
   "nombres": "ERICK",
   "apaterno": "CORREA",
@@ -6408,7 +6408,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2253,
+  "expediente": 2253,
   "dni": "05364041",
   "nombres": "PEDRO",
   "apaterno": "MALAFAYA",
@@ -6417,7 +6417,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2258,
+  "expediente": 2258,
   "dni": "03701828",
   "nombres": "MARCOS ANTONIO",
   "apaterno": "GUEVARA",
@@ -6426,7 +6426,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2260,
+  "expediente": 2260,
   "dni": "47193801",
   "nombres": "PETTY REGINA",
   "apaterno": "RUIZ",
@@ -6435,7 +6435,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2261,
+  "expediente": 2261,
   "dni": "44391923",
   "nombres": "YASSIR ALI",
   "apaterno": "PANDURO",
@@ -6444,7 +6444,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2264,
+  "expediente": 2264,
   "dni": "05327049",
   "nombres": "KATTIA LLERME",
   "apaterno": "HUAYNACARI",
@@ -6453,7 +6453,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2265,
+  "expediente": 2265,
   "dni": "72431960",
   "nombres": "SHEENA KAREN",
   "apaterno": "MURAYARI",
@@ -6462,7 +6462,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2267,
+  "expediente": 2267,
   "dni": "72664103",
   "nombres": "FULLER FABIAN",
   "apaterno": "PEÑA",
@@ -6471,7 +6471,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2270,
+  "expediente": 2270,
   "dni": "46851994",
   "nombres": "PAUL GIANFRANCO",
   "apaterno": "FLORES",
@@ -6480,7 +6480,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2271,
+  "expediente": 2271,
   "dni": "46624231",
   "nombres": "CLAUDETH LORENA",
   "apaterno": "TORRES",
@@ -6489,7 +6489,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2272,
+  "expediente": 2272,
   "dni": "70929974",
   "nombres": "INGRITH WIESLAWA",
   "apaterno": "ALAVA",
@@ -6498,7 +6498,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2273,
+  "expediente": 2273,
   "dni": "43195412",
   "nombres": "GITZON NAMBER",
   "apaterno": "CARIHUASAIRO",
@@ -6507,7 +6507,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2277,
+  "expediente": 2277,
   "dni": "05413201",
   "nombres": "JUAN ARMANDO",
   "apaterno": "GARCIA",
@@ -6516,7 +6516,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2281,
+  "expediente": 2281,
   "dni": "41975077",
   "nombres": "EDER MARTIN",
   "apaterno": "MONTALVAN",
@@ -6525,7 +6525,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2282,
+  "expediente": 2282,
   "dni": "44834938",
   "nombres": "MILAGROS DE JESUS",
   "apaterno": "VELA",
@@ -6534,7 +6534,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2288,
+  "expediente": 2288,
   "dni": "44092410",
   "nombres": "OSARSIP TITO",
   "apaterno": "LOZANO",
@@ -6543,7 +6543,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2293,
+  "expediente": 2293,
   "dni": "72737271",
   "nombres": "MOISES LEONARDO",
   "apaterno": "RACCHUMICK",
@@ -6552,7 +6552,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2299,
+  "expediente": 2299,
   "dni": "70671798",
   "nombres": "ANA PAULINA",
   "apaterno": "GARCIA",
@@ -6561,7 +6561,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2303,
+  "expediente": 2303,
   "dni": "43206539",
   "nombres": "ROSA INES",
   "apaterno": "SANCHEZ",
@@ -6570,7 +6570,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2308,
+  "expediente": 2308,
   "dni": "70751654",
   "nombres": "RICKY MARTIN",
   "apaterno": "SANTILLAN",
@@ -6579,7 +6579,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2309,
+  "expediente": 2309,
   "dni": "48307147",
   "nombres": "FRANCO RENATO",
   "apaterno": "GARCIA",
@@ -6588,7 +6588,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2310,
+  "expediente": 2310,
   "dni": "45155415",
   "nombres": "NELLY ELENA",
   "apaterno": "PEREZ",
@@ -6597,7 +6597,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2313,
+  "expediente": 2313,
   "dni": "05392666",
   "nombres": "FLOBIAM ALAIN",
   "apaterno": "VASQUEZ",
@@ -6606,7 +6606,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2314,
+  "expediente": 2314,
   "dni": "44052985",
   "nombres": "JORGE",
   "apaterno": "SALAZAR",
@@ -6615,7 +6615,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2315,
+  "expediente": 2315,
   "dni": "70560885",
   "nombres": "LUIS ALEJANDRO",
   "apaterno": "VILLACORTA",
@@ -6624,7 +6624,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2317,
+  "expediente": 2317,
   "dni": "40628057",
   "nombres": "ZOILA MARJORIE ",
   "apaterno": "PINEDO ",
@@ -6633,7 +6633,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2319,
+  "expediente": 2319,
   "dni": "05333132",
   "nombres": "HERNAN JOSE MARTIN",
   "apaterno": "RIOS",
@@ -6642,7 +6642,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2325,
+  "expediente": 2325,
   "dni": "08818081",
   "nombres": "ROBINSON",
   "apaterno": "FLORES",
@@ -6651,7 +6651,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2326,
+  "expediente": 2326,
   "dni": "05845990",
   "nombres": "DIANA",
   "apaterno": "RIOS",
@@ -6660,7 +6660,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2327,
+  "expediente": 2327,
   "dni": "46994104",
   "nombres": "MAYCLER",
   "apaterno": "BERNUY",
@@ -6669,7 +6669,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2329,
+  "expediente": 2329,
   "dni": "46985945",
   "nombres": "KAROLL SIUMEY",
   "apaterno": "RENGIFO",
@@ -6678,7 +6678,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2332,
+  "expediente": 2332,
   "dni": "45080257",
   "nombres": "ROOBER NERU",
   "apaterno": "VILLACREZ",
@@ -6687,7 +6687,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2340,
+  "expediente": 2340,
   "dni": "70036003",
   "nombres": "VANNIA LLAMELY",
   "apaterno": "ENCISO",
@@ -6696,7 +6696,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2347,
+  "expediente": 2347,
   "dni": "72644971",
   "nombres": "PAUL FREEMAN",
   "apaterno": "RODRIGUEZ",
@@ -6705,7 +6705,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2348,
+  "expediente": 2348,
   "dni": "70777112",
   "nombres": "NORMA ROSA LICETT",
   "apaterno": "TANGOA",
@@ -6714,7 +6714,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2350,
+  "expediente": 2350,
   "dni": "72161411",
   "nombres": "SINTIA KAREN",
   "apaterno": "ICAHUATE",
@@ -6723,7 +6723,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2352,
+  "expediente": 2352,
   "dni": "42083441",
   "nombres": "CARLOS PUGA DE",
   "apaterno": "LA",
@@ -6732,7 +6732,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2353,
+  "expediente": 2353,
   "dni": "71254147",
   "nombres": "XUXA GERALDINE",
   "apaterno": "VALLES",
@@ -6741,7 +6741,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2356,
+  "expediente": 2356,
   "dni": "47248674",
   "nombres": "SHEYLA DE FATIMA",
   "apaterno": "RIOS",
@@ -6750,7 +6750,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2359,
+  "expediente": 2359,
   "dni": "47449590",
   "nombres": "JOSE RAUL",
   "apaterno": "MASS",
@@ -6759,7 +6759,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2366,
+  "expediente": 2366,
   "dni": "73126551",
   "nombres": "FRITHMAN",
   "apaterno": "SALAS",
@@ -6768,7 +6768,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2367,
+  "expediente": 2367,
   "dni": "46095487",
   "nombres": "JACSON ANER",
   "apaterno": "PAZ",
@@ -6777,7 +6777,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2370,
+  "expediente": 2370,
   "dni": "60578443",
   "nombres": "LUZ MAYRETH",
   "apaterno": "FILOMENO",
@@ -6786,7 +6786,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2371,
+  "expediente": 2371,
   "dni": "71246755",
   "nombres": "DANNY EMILIANO",
   "apaterno": "MACA",
@@ -6795,7 +6795,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2376,
+  "expediente": 2376,
   "dni": "73499257",
   "nombres": "KAXANDRA MILAGROS",
   "apaterno": "FERNANDEZ",
@@ -6804,7 +6804,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2377,
+  "expediente": 2377,
   "dni": "70370396",
   "nombres": "VALERIA MARGOTH",
   "apaterno": "NORONHA",
@@ -6813,7 +6813,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2378,
+  "expediente": 2378,
   "dni": "72752174",
   "nombres": "CLAUDIA VERENICE",
   "apaterno": "NORONHA",
@@ -6822,7 +6822,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2379,
+  "expediente": 2379,
   "dni": "72646658",
   "nombres": "ALMENDRA",
   "apaterno": "YARAME",
@@ -6831,7 +6831,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2380,
+  "expediente": 2380,
   "dni": "05714291",
   "nombres": "JOAQUIN ALEJANDRO",
   "apaterno": "REATEGUI",
@@ -6840,7 +6840,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2386,
+  "expediente": 2386,
   "dni": "70929963",
   "nombres": "BRUNO EDUARDO",
   "apaterno": "MARIN",
@@ -6849,7 +6849,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2389,
+  "expediente": 2389,
   "dni": "05339369",
   "nombres": "CELIA ANGELINA",
   "apaterno": "RODRIGUEZ",
@@ -6858,7 +6858,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2392,
+  "expediente": 2392,
   "dni": "70002804",
   "nombres": "JENIPHER WIESLAWA",
   "apaterno": "REATEGUI",
@@ -6867,7 +6867,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2395,
+  "expediente": 2395,
   "dni": "42731615",
   "nombres": "JIMMY BRYAN",
   "apaterno": "MORI",
@@ -6876,7 +6876,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2396,
+  "expediente": 2396,
   "dni": "05414443",
   "nombres": "ROCIO DEL PILAR",
   "apaterno": "ELESCANO",
@@ -6885,7 +6885,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2398,
+  "expediente": 2398,
   "dni": "40311695",
   "nombres": "CARLOS ALBERTO",
   "apaterno": "ROJAS",
@@ -6894,7 +6894,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2400,
+  "expediente": 2400,
   "dni": "43795809",
   "nombres": "WAGNER JAVIER",
   "apaterno": "TAMANI",
@@ -6903,7 +6903,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2402,
+  "expediente": 2402,
   "dni": "05360875",
   "nombres": "JULIANA",
   "apaterno": "ACOSTA",
@@ -6912,7 +6912,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2405,
+  "expediente": 2405,
   "dni": "41427956",
   "nombres": "JESUS ALFA OMEGA",
   "apaterno": "GARCIA",
@@ -6921,7 +6921,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1758,
+  "expediente": 1758,
   "dni": "44491933",
   "nombres": "MANUEL",
   "apaterno": "MACA",
@@ -6930,7 +6930,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1776,
+  "expediente": 1776,
   "dni": "06086996",
   "nombres": "JAIME ROBERTO",
   "apaterno": "COBIAN",
@@ -6939,7 +6939,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1788,
+  "expediente": 1788,
   "dni": "74150249",
   "nombres": "IBY CRISTEL",
   "apaterno": "FLORES",
@@ -6948,7 +6948,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1851,
+  "expediente": 1851,
   "dni": "70525730",
   "nombres": "BEDDER MILLER",
   "apaterno": "CANAYO",
@@ -6957,7 +6957,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1895,
+  "expediente": 1895,
   "dni": "05350695",
   "nombres": "WALTER HERNAN",
   "apaterno": "FLORES",
@@ -6966,7 +6966,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1897,
+  "expediente": 1897,
   "dni": "72814603",
   "nombres": "MILQUIESER FERNANDO",
   "apaterno": "OLIVEIRA",
@@ -6975,7 +6975,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2048,
+  "expediente": 2048,
   "dni": "41638824",
   "nombres": "JOSE ELIGIO",
   "apaterno": "PEREZ",
@@ -6984,7 +6984,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2066,
+  "expediente": 2066,
   "dni": "41859244",
   "nombres": "SINTIA LADY",
   "apaterno": "HIDALGO",
@@ -6993,7 +6993,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2069,
+  "expediente": 2069,
   "dni": "43906140",
   "nombres": "ANGEL MONTENEGRO DE",
   "apaterno": "OLIVEIRA",
@@ -7002,7 +7002,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2070,
+  "expediente": 2070,
   "dni": "41621273",
   "nombres": "SILVIA VIANEY",
   "apaterno": "VALLE",
@@ -7011,7 +7011,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2078,
+  "expediente": 2078,
   "dni": "80361640",
   "nombres": "JUAN",
   "apaterno": "CCANIHUA",
@@ -7020,7 +7020,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2081,
+  "expediente": 2081,
   "dni": "70234252",
   "nombres": "JEISON JAMES",
   "apaterno": "VELA",
@@ -7029,7 +7029,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2085,
+  "expediente": 2085,
   "dni": "40958435",
   "nombres": "ALEN JAVIER",
   "apaterno": "PEZO",
@@ -7038,7 +7038,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2091,
+  "expediente": 2091,
   "dni": "70897510",
   "nombres": "ROYBER ANDREY",
   "apaterno": "QUISPE",
@@ -7047,7 +7047,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2232,
+  "expediente": 2232,
   "dni": "70231499",
   "nombres": "ALFREDO JHON PAOLO",
   "apaterno": "MAZUCA",
@@ -7056,7 +7056,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2255,
+  "expediente": 2255,
   "dni": "05394293",
   "nombres": "MAYTE",
   "apaterno": "MONTENEGRO",
@@ -7065,7 +7065,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2375,
+  "expediente": 2375,
   "dni": "70117424",
   "nombres": "CAROLINA",
   "apaterno": "TANGOA",
@@ -7074,7 +7074,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2387,
+  "expediente": 2387,
   "dni": "46034785",
   "nombres": "FERNANDO",
   "apaterno": "BARDALES",
@@ -7083,7 +7083,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2394,
+  "expediente": 2394,
   "dni": "70346216",
   "nombres": "DIANA CAROLINA",
   "apaterno": "RUIZ",
@@ -7092,7 +7092,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2446,
+  "expediente": 2446,
   "dni": "42367988",
   "nombres": "JOSE MANUEL",
   "apaterno": "PANDURO",
@@ -7101,7 +7101,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2472,
+  "expediente": 2472,
   "dni": "70974975",
   "nombres": "CHIARY THAIS",
   "apaterno": "RODRIGUEZ",
@@ -7110,7 +7110,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2498,
+  "expediente": 2498,
   "dni": "42586730",
   "nombres": "ASENSIO",
   "apaterno": "PACAYA",
@@ -7119,7 +7119,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2503,
+  "expediente": 2503,
   "dni": "05377820",
   "nombres": "VICTOR",
   "apaterno": "LINARES",
@@ -7128,7 +7128,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2504,
+  "expediente": 2504,
   "dni": "76245990",
   "nombres": "CARMEN DEL PILAR",
   "apaterno": "CASTRO",
@@ -7137,7 +7137,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2508,
+  "expediente": 2508,
   "dni": "45764667",
   "nombres": "JORGE LUIS",
   "apaterno": "GONZALES",
@@ -7146,7 +7146,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2513,
+  "expediente": 2513,
   "dni": "44807699",
   "nombres": "AUGUSTO",
   "apaterno": "LOPEZ",
@@ -7155,7 +7155,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2521,
+  "expediente": 2521,
   "dni": "70989881",
   "nombres": "RENATO MARCELO",
   "apaterno": "SALAS",
@@ -7164,7 +7164,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2524,
+  "expediente": 2524,
   "dni": "45247778",
   "nombres": "ROY JUNIOR",
   "apaterno": "BECERRA",
@@ -7173,7 +7173,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2525,
+  "expediente": 2525,
   "dni": "70791623",
   "nombres": "MARIA INES",
   "apaterno": "RABANAL",
@@ -7182,7 +7182,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2526,
+  "expediente": 2526,
   "dni": "70484102",
   "nombres": "JANY STEPHANIE",
   "apaterno": "TORRES",
@@ -7191,7 +7191,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2539,
+  "expediente": 2539,
   "dni": "40922935",
   "nombres": "PAULO NINO",
   "apaterno": "REATEGUI",
@@ -7200,7 +7200,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2540,
+  "expediente": 2540,
   "dni": "42358611",
   "nombres": "NATALY GRACIELA",
   "apaterno": "GUZMAN",
@@ -7209,7 +7209,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2545,
+  "expediente": 2545,
   "dni": "70792565",
   "nombres": "PAUL ALEXIS",
   "apaterno": "GARCIA",
@@ -7218,7 +7218,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2546,
+  "expediente": 2546,
   "dni": "70117417",
   "nombres": "WISTON JOSEPH",
   "apaterno": "GAVIRIA",
@@ -7227,7 +7227,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2549,
+  "expediente": 2549,
   "dni": "72461863",
   "nombres": "AYDA AMELITA",
   "apaterno": "MAFALDO",
@@ -7236,7 +7236,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2551,
+  "expediente": 2551,
   "dni": "41208551",
   "nombres": "JOHNNY CHERRY",
   "apaterno": "LOVERA",
@@ -7245,7 +7245,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2552,
+  "expediente": 2552,
   "dni": "43141274",
   "nombres": "CARLOS BLANDY",
   "apaterno": "SOPLIN",
@@ -7254,7 +7254,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2579,
+  "expediente": 2579,
   "dni": "05370137",
   "nombres": "RAUL EDUARDO DEL",
   "apaterno": "AGUILA",
@@ -7263,7 +7263,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2596,
+  "expediente": 2596,
   "dni": "48354886",
   "nombres": "DIEGO VICTOR",
   "apaterno": "CALERO",
@@ -7272,7 +7272,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2419,
+  "expediente": 2419,
   "dni": "41339762",
   "nombres": "JESUS",
   "apaterno": "RONDONA",
@@ -7281,7 +7281,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2420,
+  "expediente": 2420,
   "dni": "73025453",
   "nombres": "CLAUDIA NELLY",
   "apaterno": "DAVILA",
@@ -7290,7 +7290,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2431,
+  "expediente": 2431,
   "dni": "40597190",
   "nombres": "MARTHA ELENA",
   "apaterno": "SALDAÑA",
@@ -7299,7 +7299,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2435,
+  "expediente": 2435,
   "dni": "41907280",
   "nombres": "ZICO",
   "apaterno": "SOUZA",
@@ -7308,7 +7308,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2544,
+  "expediente": 2544,
   "dni": "44488495",
   "nombres": "EDWARD JOHAN",
   "apaterno": "QUINTANA",
@@ -7317,7 +7317,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2569,
+  "expediente": 2569,
   "dni": "44839509",
   "nombres": "ANGELICA PIERINA",
   "apaterno": "DIAZ",
@@ -7326,7 +7326,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2575,
+  "expediente": 2575,
   "dni": "42846951",
   "nombres": "WILSON PAOLO",
   "apaterno": "WARSHALOWSKY",
@@ -7335,7 +7335,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2580,
+  "expediente": 2580,
   "dni": "40573736",
   "nombres": "MILAGROS DEL PILAR",
   "apaterno": "VARGAS",
@@ -7344,7 +7344,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1706,
+  "expediente": 1706,
   "dni": "73444164",
   "nombres": "MARIA GRAZIA JULIANA",
   "apaterno": "PINEDO",
@@ -7353,7 +7353,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1718,
+  "expediente": 1718,
   "dni": "05356767",
   "nombres": "SILVIA",
   "apaterno": "RENGIFO",
@@ -7362,7 +7362,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1742,
+  "expediente": 1742,
   "dni": "47295558",
   "nombres": "WALTER JULIO",
   "apaterno": "REVILLA",
@@ -7371,7 +7371,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1752,
+  "expediente": 1752,
   "dni": "41532102",
   "nombres": "GIULIANA",
   "apaterno": "CARDENAS",
@@ -7380,7 +7380,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1779,
+  "expediente": 1779,
   "dni": "72089904",
   "nombres": "ROGER GABRIEL",
   "apaterno": "GARATE",
@@ -7389,7 +7389,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1783,
+  "expediente": 1783,
   "dni": "41872073",
   "nombres": "KAREN LUZ",
   "apaterno": "LOPEZ",
@@ -7398,7 +7398,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1859,
+  "expediente": 1859,
   "dni": "73171262",
   "nombres": "CHRISTIAN ANDY",
   "apaterno": "GUERRA",
@@ -7407,7 +7407,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1901,
+  "expediente": 1901,
   "dni": "45795536",
   "nombres": "IRIS ISABEL",
   "apaterno": "GUEDEZ",
@@ -7416,7 +7416,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1922,
+  "expediente": 1922,
   "dni": "70387248",
   "nombres": "ZOILA ROSARIO",
   "apaterno": "PINEDO",
@@ -7425,7 +7425,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1930,
+  "expediente": 1930,
   "dni": "70366219",
   "nombres": "JUAN CARLOS",
   "apaterno": "MACHOA",
@@ -7434,7 +7434,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1936,
+  "expediente": 1936,
   "dni": "70387247",
   "nombres": "GIOVANNA ROSARIO",
   "apaterno": "PINEDO",
@@ -7443,7 +7443,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1952,
+  "expediente": 1952,
   "dni": "70558419",
   "nombres": "GIRIA ESTELA",
   "apaterno": "MUÑOZ",
@@ -7452,7 +7452,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1972,
+  "expediente": 1972,
   "dni": "43972660",
   "nombres": "DORCAS TANITH",
   "apaterno": "ASPAJO",
@@ -7461,7 +7461,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 1998,
+  "expediente": 1998,
   "dni": "05410945",
   "nombres": "DIXNER",
   "apaterno": "RENGIFO",
@@ -7470,7 +7470,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2012,
+  "expediente": 2012,
   "dni": "72252661",
   "nombres": "BRIANT ELIAS",
   "apaterno": "LOPEZ",
@@ -7479,7 +7479,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2088,
+  "expediente": 2088,
   "dni": "70064163",
   "nombres": "JORGE LUIS",
   "apaterno": "GUERRA",
@@ -7488,7 +7488,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2145,
+  "expediente": 2145,
   "dni": "05402094",
   "nombres": "MONICA PILAR",
   "apaterno": "VILA",
@@ -7497,7 +7497,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2181,
+  "expediente": 2181,
   "dni": "70424279",
   "nombres": "BETYNA JHAZMIN",
   "apaterno": "MAZANETT",
@@ -7506,7 +7506,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2200,
+  "expediente": 2200,
   "dni": "71748495",
   "nombres": "MARJORIE BRISET",
   "apaterno": "PEREYRA",
@@ -7515,7 +7515,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2278,
+  "expediente": 2278,
   "dni": "48538874",
   "nombres": "IRENICE DE FATIMA",
   "apaterno": "SORIA",
@@ -7524,7 +7524,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2284,
+  "expediente": 2284,
   "dni": "45780280",
   "nombres": "JARUMI MARISA",
   "apaterno": "INGA",
@@ -7533,7 +7533,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2291,
+  "expediente": 2291,
   "dni": "70160517",
   "nombres": "JORGE",
   "apaterno": "MACEDO",
@@ -7542,7 +7542,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2292,
+  "expediente": 2292,
   "dni": "70827911",
   "nombres": "JESUS ISRAEL",
   "apaterno": "CANELO",
@@ -7551,7 +7551,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2301,
+  "expediente": 2301,
   "dni": "41579269",
   "nombres": "GRAZIA ",
   "apaterno": "MARQUEZ",
@@ -7560,7 +7560,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2321,
+  "expediente": 2321,
   "dni": "71083127",
   "nombres": "LOURYS VALERIA",
   "apaterno": "SILVA",
@@ -7569,7 +7569,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2345,
+  "expediente": 2345,
   "dni": "43960336",
   "nombres": "MATILDE",
   "apaterno": "VARGAS",
@@ -7578,7 +7578,7 @@
   "periodo": "2023-I"
  },
  {
-  "N° expediente": 2383,
+  "expediente": 2383,
   "dni": "47271231",
   "nombres": "GUIDO ELVIS",
   "apaterno": "CHAVEZ",
