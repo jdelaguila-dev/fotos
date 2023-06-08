@@ -12,12 +12,8 @@ onMounted(() => {
 });
 
 const loadjson = () => {
-  jsonData.value = sourcedata;
+  jsonData.value = sourcedata.profiles;
   console.log(jsonData.value);
-};
-
-const uploadPhoto = (searchResult) => {
-  console.log(searchResult);
 };
 
 const searchResult = computed(() => {
@@ -28,7 +24,6 @@ const searchResult = computed(() => {
       })
     : [];
 });
-
 </script>
 
 <template>
@@ -38,11 +33,8 @@ const searchResult = computed(() => {
       <el-input v-model="dni" placeholder="Ingrese DNI" />
     </el-form-item>
   </div>
-  <div>
+  <div class="pb-4">
     <TableContent :users="searchResult" />
-    <div style="margin-top: 20px">
-      <input type="file" name="" id="" placeholder="Subir foto">
-      <el-button @click="uploadPhoto(searchResult[0])">Subir foto</el-button>
-    </div>
   </div>
+
 </template>

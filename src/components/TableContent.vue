@@ -7,6 +7,7 @@ interface User {
   amaterno: string;
   programa: string;
   periodo: string;
+  photo: string;
 }
 
 const tableRowClassName = ({
@@ -25,7 +26,7 @@ const tableRowClassName = ({
 };
 
 const props = defineProps<{
-  users: User[]
+  users: User[],
 }>()
 
 
@@ -40,6 +41,7 @@ const props = defineProps<{
     <el-table-column prop="amaterno" label="A. Materno" />
     <el-table-column prop="programa" label="Programa" />
     <el-table-column prop="periodo" label="Periodo" />
+    <el-table-column prop="photo" label="Foto"/>
   </el-table>
 </template>
 
